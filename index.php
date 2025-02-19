@@ -9,7 +9,7 @@
         <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
           <h1 data-aos="fade-up">Navbright Technology – Premier IT & Web Solutions</h1>
           <p data-aos="fade-up" data-aos-delay="100">
-            Established in 2015, Navbright Technology is a trusted leader in IT services, web development, IT consulting, and web programming. Under the expert guidance of CEO Mr. Shawn Tee, our team leverages over 10 years of corporate IT management experience to deliver innovative digital solutions that drive business success.
+            Established in 2015, Navbright Technology is a trusted leader in IT services and consulting, as well as cutting-edge web development. Under the expert guidance of CEO Mr. Shawn Tee, our team leverages over 10 years of corporate IT management experience to deliver innovative digital solutions that drive business success.
           </p>
           <div class="d-flex flex-column flex-md-row" data-aos="fade-up" data-aos-delay="200">
             <a href="#about" class="btn-get-started">Discover More <i class="bi bi-arrow-right"></i></a>
@@ -35,7 +35,7 @@
             <h3>About Navbright Technology</h3>
             <h2>Your Trusted Partner in IT & Digital Innovation</h2>
             <p>
-              Founded in 2015, Navbright Technology has emerged as a premier provider of IT services, web development, IT consulting, and custom web programming. Under the expert leadership of CEO Mr. Shawn Tee, our team brings over a decade of experience managing corporate IT systems and delivering innovative digital solutions that drive business growth.
+              Founded in 2015, Navbright Technology has established itself as a premier provider of comprehensive IT solutions and cutting-edge web development. Under the expert guidance of CEO Mr. Shawn Tee, our team brings over a decade of experience in managing corporate IT systems and delivering innovative digital solutions that empower business growth.
             </p>
             <div class="text-center text-lg-start">
               <a href="#services" class="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">
