@@ -272,7 +272,7 @@
             <p>
               Our comprehensive IT infrastructure solutions ensure your systems remain secure, reliable, and scalable for future growth.
             </p>
-            <a href="#" class="read-more stretched-link"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
+            
           </div>
         </div>
         <!-- Service 2: Custom Web Development -->
@@ -283,7 +283,7 @@
             <p>
               We craft responsive and engaging websites tailored to your business needs, ensuring a seamless user experience across all devices.
             </p>
-            <a href="#" class="read-more stretched-link"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
+            
           </div>
         </div>
         <!-- Service 3: Strategic IT Consulting -->
@@ -294,7 +294,7 @@
             <p>
               Our expert consulting services offer actionable insights and tailored strategies to optimize your IT investments and drive business success.
             </p>
-            <a href="#" class="read-more stretched-link"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
+            
           </div>
         </div>
         <!-- Service 4: Innovative Web Programming -->
@@ -305,7 +305,7 @@
             <p>
               Leveraging cutting-edge technologies, we deliver robust web programming solutions that empower your online presence and digital performance.
             </p>
-            <a href="#" class="read-more stretched-link"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
+            
           </div>
         </div>
         <!-- Service 5: Digital Transformation -->
@@ -316,7 +316,7 @@
             <p>
               Transform your business with digital solutions that integrate innovative IT strategies and automation to enhance operational efficiency.
             </p>
-            <a href="#" class="read-more stretched-link"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
+            
           </div>
         </div>
         <!-- Service 6: Managed IT Services -->
@@ -327,7 +327,7 @@
             <p>
               Our proactive managed IT services ensure your environment is secure, optimized, and continuously monitored for peak performance.
             </p>
-            <a href="#" class="read-more stretched-link"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
+            
           </div>
         </div>
       </div>
