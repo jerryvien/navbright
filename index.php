@@ -556,11 +556,11 @@
   </section>
   <!-- /Team Section -->
 
-  <!-- Clients Section -->
+<!-- Clients Section -->
   <section id="clients" class="clients section">
     <div class="container section-title" data-aos="fade-up">
-      <h2>Clients</h2>
-      <p>We work with best clients<br></p>
+      <h2>Our Esteemed Clients</h2>
+      <p>Partnering with leading brands across industries<br></p>
     </div>
     <div class="container" data-aos="fade-up" data-aos-delay="100">
       <div class="swiper init-swiper">
@@ -605,81 +605,70 @@
       </div>
     </div>
   </section>
-  <!-- /Clients Section -->
+<!-- /Clients Section -->
 
-  <!-- Recent Posts Section -->
-  <section id="recent-posts" class="recent-posts section">
-    <div class="container section-title" data-aos="fade-up">
-      <h2>Recent Posts</h2>
-      <p>Recent posts form our Blog</p>
-    </div>
-    <div class="container">
-      <div class="row gy-5">
-        <!-- Post Items -->
-        <!-- (All post items remain unchanged.) -->
-      </div>
-    </div>
-  </section>
-  <!-- /Recent Posts Section -->
+ 
 
-  <!-- Contact Section -->
+<!-- Contact Section -->
   <section id="contact" class="contact section">
     <div class="container section-title" data-aos="fade-up">
-      <h2>Contact</h2>
-      <p>Contact Us</p>
+      <h2>Contact Us</h2>
+      <p>Get in Touch with Navbright Technology</p>
     </div>
     <div class="container" data-aos="fade-up" data-aos-delay="100">
       <div class="row gy-4">
         <div class="col-lg-6">
           <div class="row gy-4">
+            <!-- Address -->
             <div class="col-md-6">
               <div class="info-item" data-aos="fade" data-aos-delay="200">
                 <i class="bi bi-geo-alt"></i>
                 <h3>Address</h3>
-                <p>A108 Adam Street</p>
-                <p>New York, NY 535022</p>
+                <p>Menara Allianz Sentral, 203,<br>Jalan Tun Sambanthan, Brickfields,<br>50470 Kuala Lumpur,<br>Federal Territory of Kuala Lumpur</p>
               </div>
             </div>
+            <!-- Phone -->
             <div class="col-md-6">
               <div class="info-item" data-aos="fade" data-aos-delay="300">
                 <i class="bi bi-telephone"></i>
                 <h3>Call Us</h3>
-                <p>+1 5589 55488 55</p>
-                <p>+1 6678 254445 41</p>
+                <p>010-2899611</p>
               </div>
             </div>
+            <!-- Email -->
             <div class="col-md-6">
               <div class="info-item" data-aos="fade" data-aos-delay="400">
                 <i class="bi bi-envelope"></i>
                 <h3>Email Us</h3>
-                <p>info@example.com</p>
-                <p>contact@example.com</p>
+                <p>sales@navbright.tech</p>
               </div>
             </div>
+            <!-- Open Hours -->
             <div class="col-md-6">
               <div class="info-item" data-aos="fade" data-aos-delay="500">
                 <i class="bi bi-clock"></i>
                 <h3>Open Hours</h3>
                 <p>Monday - Friday</p>
-                <p>9:00AM - 05:00PM</p>
+                <p>9:00 AM - 06:00 PM</p>
               </div>
             </div>
           </div>
         </div>
+        <!-- Contact Form -->
         <div class="col-lg-6">
           <form action="forms/contact.php" method="post" class="php-email-form" data-aos="fade-up" data-aos-delay="200">
             <div class="row gy-4">
               <div class="col-md-6">
-                <input type="text" name="name" class="form-control" placeholder="Your Name" required="">
+                <input type="text" name="name" class="form-control" placeholder="Your Name" required>
               </div>
-              <div class="col-md-6 ">
-                <input type="email" class="form-control" name="email" placeholder="Your Email" required="">
-              </div>
-              <div class="col-12">
-                <input type="text" class="form-control" name="subject" placeholder="Subject" required="">
+              <div class="col-md-6">
+                <input type="email" name="email" class="form-control" placeholder="Your Email" required>
               </div>
               <div class="col-12">
-                <textarea class="form-control" name="message" rows="6" placeholder="Message" required=""></textarea>
+                <input type="text" name="subject" class="form-control" placeholder="Subject" required>
+              </div>
+              <div class="col-12">
+                <textarea name="message" rows="6" class="form-control" placeholder="Message" required></textarea>
               </div>
               <div class="col-12 text-center">
                 <div class="loading">Loading</div>
@@ -693,7 +682,7 @@
       </div>
     </div>
   </section>
-  <!-- /Contact Section -->
+<!-- /Contact Section -->
 
 </main>
 
