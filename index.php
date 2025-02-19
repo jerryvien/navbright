@@ -640,7 +640,7 @@
               </div>
             </div>
             <div class="member-info">
-              <h4>Mr Shawn Tee</h4>
+              <h4>Shawn Tee</h4>
               <span>IT Director</span>
               <p>Shawn leads our IT strategy with extensive industry expertise and a vision for innovative digital solutions.</p>
             </div>
@@ -659,7 +659,7 @@
               </div>
             </div>
             <div class="member-info">
-              <h4>Mr Jackson</h4>
+              <h4>Jackson</h4>
               <span>IT Manager</span>
               <p>Jackson manages our day-to-day IT operations, ensuring seamless performance and innovative support.</p>
             </div>
@@ -678,28 +678,9 @@
               </div>
             </div>
             <div class="member-info">
-              <h4>Ms Gloria Chin</h4>
-              <span>Finance Manager</span>
-              <p>Gloria oversees our financial operations and strategic planning, ensuring fiscal stability and growth.</p>
-            </div>
-          </div>
-        </div>
-        <!-- Team Member 4: Ms Janet Tee - Business Development Manager -->
-        <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
-          <div class="team-member">
-            <div class="member-img">
-              <img src="assets/img/team/janet-tee.jpg" class="img-fluid" alt="Ms Janet Tee - Business Development Manager">
-              <div class="social">
-                <a href="#"><i class="bi bi-twitter-x"></i></a>
-                <a href="#"><i class="bi bi-facebook"></i></a>
-                <a href="#"><i class="bi bi-instagram"></i></a>
-                <a href="#"><i class="bi bi-linkedin"></i></a>
-              </div>
-            </div>
-            <div class="member-info">
-              <h4>Ms Janet Tee</h4>
+              <h4>Gloria Chin</h4>
               <span>Business Development Manager</span>
-              <p>Janet drives our growth initiatives, forging strategic partnerships and expanding our market presence.</p>
+              <p>Gloria oversees our financial operations and strategic planning, ensuring fiscal stability and growth.</p>
             </div>
           </div>
         </div>
