@@ -57,6 +57,8 @@
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
-      <a class="btn-getstarted flex-md-shrink-0" href="index.html#about">Discover Our Solutions</a>
+      <a class="btn-getstarted flex-md-shrink-0" href="https://wa.link/dvw5fe" target="_blank">
+        <i class="bi bi-whatsapp"></i> Chat on WhatsApp
+      </a>
     </div>
   </header>
