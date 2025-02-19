@@ -2,181 +2,193 @@
 
 <main class="main">
 
-  <!-- Hero Section -->
+<!-- Hero Section -->
   <section id="hero" class="hero section">
     <div class="container">
       <div class="row gy-4">
         <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
-          <h1 data-aos="fade-up">We offer modern solutions for growing your business</h1>
-          <p data-aos="fade-up" data-aos-delay="100">We are team of talented designers making websites with Bootstrap</p>
+          <h1 data-aos="fade-up">Navbright Technology – Premier IT & Web Solutions</h1>
+          <p data-aos="fade-up" data-aos-delay="100">
+            Established in 2015, Navbright Technology is a trusted leader in IT services, web development, IT consulting, and web programming. Under the expert guidance of CEO Mr. Shawn Tee, our team leverages over 10 years of corporate IT management experience to deliver innovative digital solutions that drive business success.
+          </p>
           <div class="d-flex flex-column flex-md-row" data-aos="fade-up" data-aos-delay="200">
-            <a href="#about" class="btn-get-started">Get Started <i class="bi bi-arrow-right"></i></a>
-            <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox btn-watch-video d-flex align-items-center justify-content-center ms-0 ms-md-4 mt-4 mt-md-0">
-              <i class="bi bi-play-circle"></i><span>Watch Video</span>
+            <a href="#about" class="btn-get-started">Discover More <i class="bi bi-arrow-right"></i></a>
+            <a href="https://www.youtube.com/watch?v=YourCompanyVideo" class="glightbox btn-watch-video d-flex align-items-center justify-content-center ms-0 ms-md-4 mt-4 mt-md-0">
+              <i class="bi bi-play-circle"></i><span>Watch Our Story</span>
             </a>
           </div>
         </div>
         <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-out">
-          <img src="assets/img/hero-img.png" class="img-fluid animated" alt="">
+          <img src="assets/img/hero-img.png" class="img-fluid animated" alt="Navbright Technology IT & Web Solutions">
         </div>
       </div>
     </div>
   </section>
-  <!-- /Hero Section -->
+<!-- /Hero Section -->
 
-  <!-- About Section -->
+<!-- About Section -->
   <section id="about" class="about section">
     <div class="container" data-aos="fade-up">
       <div class="row gx-0">
         <div class="col-lg-6 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
           <div class="content">
-            <h3>Who We Are</h3>
-            <h2>Expedita voluptas omnis cupiditate totam eveniet nobis sint iste. Dolores est repellat corrupti reprehenderit.</h2>
+            <h3>About Navbright Technology</h3>
+            <h2>Your Trusted Partner in IT & Digital Innovation</h2>
             <p>
-              Quisquam vel ut sint cum eos hic dolores aperiam. Sed deserunt et. Inventore et et dolor consequatur itaque ut voluptate sed et. Magnam nam ipsum tenetur suscipit voluptatum nam et est corrupti.
+              Founded in 2015, Navbright Technology has emerged as a premier provider of IT services, web development, IT consulting, and custom web programming. Under the expert leadership of CEO Mr. Shawn Tee, our team brings over a decade of experience managing corporate IT systems and delivering innovative digital solutions that drive business growth.
             </p>
             <div class="text-center text-lg-start">
-              <a href="#" class="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">
-                <span>Read More</span>
+              <a href="#services" class="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">
+                <span>Learn More</span>
                 <i class="bi bi-arrow-right"></i>
               </a>
             </div>
           </div>
         </div>
         <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
-          <img src="assets/img/about.jpg" class="img-fluid" alt="">
+          <img src="assets/img/about.jpg" class="img-fluid" alt="About Navbright Technology">
         </div>
       </div>
     </div>
   </section>
-  <!-- /About Section -->
+<!-- /About Section -->
 
-  <!-- Values Section -->
+<!-- Values Section -->
   <section id="values" class="values section">
     <div class="container section-title" data-aos="fade-up">
-      <h2>Our Values</h2>
-      <p>What we value most<br></p>
+      <h2>Our Core Values</h2>
+      <p>What Drives Our Success<br></p>
     </div>
     <div class="container">
       <div class="row gy-4">
         <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
           <div class="card">
-            <img src="assets/img/values-1.png" class="img-fluid" alt="">
-            <h3>Ad cupiditate sed est odio</h3>
-            <p>Eum ad dolor et. Autem aut fugiat debitis voluptatem consequuntur sit. Et veritatis id.</p>
+            <img src="assets/img/values-1.png" class="img-fluid" alt="Innovative Solutions">
+            <h3>Innovative</h3>
+            <p>
+              At Navbright Technology, innovation is at the heart of everything we do. We embrace cutting-edge technologies and creative approaches to deliver IT and web solutions that set your business apart.
+            </p>
           </div>
         </div>
         <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
           <div class="card">
-            <img src="assets/img/values-2.png" class="img-fluid" alt="">
-            <h3>Voluptatem voluptatum alias</h3>
-            <p>Repudiandae amet nihil natus in distinctio suscipit id. Doloremque ducimus ea sit non.</p>
+            <img src="assets/img/values-2.png" class="img-fluid" alt="Strategic Planning">
+            <h3>Strategy</h3>
+            <p>
+              Our success is built on strategic planning and execution. We design customized, results-driven strategies that align with your business objectives and drive sustainable growth.
+            </p>
           </div>
         </div>
         <div class="col-lg-4" data-aos="fade-up" data-aos-delay="300">
           <div class="card">
-            <img src="assets/img/values-3.png" class="img-fluid" alt="">
-            <h3>Fugit cupiditate alias nobis.</h3>
-            <p>Quam rem vitae est autem molestias explicabo debitis sint. Vero aliquid quidem commodi.</p>
+            <img src="assets/img/values-3.png" class="img-fluid" alt="Achieving Success">
+            <h3>Success</h3>
+            <p>
+              We are dedicated to achieving success for our clients. Through excellence in IT services and web development, we ensure your business achieves measurable results and long-term success.
+            </p>
           </div>
         </div>
       </div>
     </div>
   </section>
-  <!-- /Values Section -->
+<!-- /Values Section -->
 
-  <!-- Stats Section -->
+<!-- Stats Section -->
   <section id="stats" class="stats section">
     <div class="container" data-aos="fade-up" data-aos-delay="100">
       <div class="row gy-4">
+        <!-- Satisfied Clients -->
         <div class="col-lg-3 col-md-6">
           <div class="stats-item d-flex align-items-center w-100 h-100">
             <i class="bi bi-emoji-smile color-blue flex-shrink-0"></i>
             <div>
-              <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Happy Clients</p>
+              <span data-purecounter-start="0" data-purecounter-end="350" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Satisfied Clients</p>
             </div>
           </div>
         </div>
+        <!-- Completed Projects -->
         <div class="col-lg-3 col-md-6">
           <div class="stats-item d-flex align-items-center w-100 h-100">
             <i class="bi bi-journal-richtext color-orange flex-shrink-0" style="color: #ee6c20;"></i>
             <div>
-              <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Projects</p>
+              <span data-purecounter-start="0" data-purecounter-end="750" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Completed Projects</p>
             </div>
           </div>
         </div>
+        <!-- Technical Support Hours -->
         <div class="col-lg-3 col-md-6">
           <div class="stats-item d-flex align-items-center w-100 h-100">
             <i class="bi bi-headset color-green flex-shrink-0" style="color: #15be56;"></i>
             <div>
-              <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Hours Of Support</p>
+              <span data-purecounter-start="0" data-purecounter-end="2400" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Technical Support Hours</p>
             </div>
           </div>
         </div>
+        <!-- Expert Team Members -->
         <div class="col-lg-3 col-md-6">
           <div class="stats-item d-flex align-items-center w-100 h-100">
             <i class="bi bi-people color-pink flex-shrink-0" style="color: #bb0852;"></i>
             <div>
-              <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Hard Workers</p>
+              <span data-purecounter-start="0" data-purecounter-end="25" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Expert Team Members</p>
             </div>
           </div>
         </div>
       </div>
     </div>
   </section>
-  <!-- /Stats Section -->
+<!-- /Stats Section -->
 
-  <!-- Features Section -->
+<!-- Features Section -->
   <section id="features" class="features section">
     <div class="container section-title" data-aos="fade-up">
-      <h2>Features</h2>
-      <p>Our Advacedd Features<br></p>
+      <h2>Our Distinguished Services</h2>
+      <p>Innovative, tailored IT solutions to drive your business success<br></p>
     </div>
     <div class="container">
       <div class="row gy-5">
         <div class="col-xl-6" data-aos="zoom-out" data-aos-delay="100">
-          <img src="assets/img/features.png" class="img-fluid" alt="">
+          <img src="assets/img/features.png" class="img-fluid" alt="Navbright Technology Features">
         </div>
         <div class="col-xl-6 d-flex">
           <div class="row align-self-center gy-4">
             <div class="col-md-6" data-aos="fade-up" data-aos-delay="200">
               <div class="feature-box d-flex align-items-center">
                 <i class="bi bi-check"></i>
-                <h3>Eos aspernatur rem</h3>
+                <h3>Innovative IT Solutions</h3>
               </div>
             </div>
             <div class="col-md-6" data-aos="fade-up" data-aos-delay="300">
               <div class="feature-box d-flex align-items-center">
                 <i class="bi bi-check"></i>
-                <h3>Facilis neque ipsa</h3>
+                <h3>Expert Web Development</h3>
               </div>
             </div>
             <div class="col-md-6" data-aos="fade-up" data-aos-delay="400">
               <div class="feature-box d-flex align-items-center">
                 <i class="bi bi-check"></i>
-                <h3>Volup amet volupt</h3>
+                <h3>Strategic IT Consulting</h3>
               </div>
             </div>
             <div class="col-md-6" data-aos="fade-up" data-aos-delay="500">
               <div class="feature-box d-flex align-items-center">
                 <i class="bi bi-check"></i>
-                <h3>Rerum omnis sint</h3>
+                <h3>Custom Web Programming</h3>
               </div>
             </div>
             <div class="col-md-6" data-aos="fade-up" data-aos-delay="600">
               <div class="feature-box d-flex align-items-center">
                 <i class="bi bi-check"></i>
-                <h3>Alias possimus</h3>
+                <h3>Reliable IT Support</h3>
               </div>
             </div>
             <div class="col-md-6" data-aos="fade-up" data-aos-delay="700">
               <div class="feature-box d-flex align-items-center">
                 <i class="bi bi-check"></i>
-                <h3>Repellendus molli</h3>
+                <h3>Proven Industry Expertise</h3>
               </div>
             </div>
           </div>
@@ -184,9 +196,9 @@
       </div>
     </div>
   </section>
-  <!-- /Features Section -->
+<!-- /Features Section -->
 
-  <!-- Alt Features Section -->
+<!-- Alt Features Section -->
   <section id="alt-features" class="alt-features section">
     <div class="container">
       <div class="row gy-5">
@@ -195,199 +207,221 @@
             <div class="col-md-6 icon-box">
               <i class="bi bi-award"></i>
               <div>
-                <h4>Corporis voluptates sit</h4>
-                <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+                <h4>Award-Winning Excellence</h4>
+                <p>Our commitment to quality and innovation has earned us industry recognition, ensuring superior IT solutions for your business.</p>
               </div>
             </div>
             <div class="col-md-6 icon-box">
               <i class="bi bi-card-checklist"></i>
               <div>
-                <h4>Ullamco laboris nisi</h4>
-                <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                <h4>Strategic IT Consulting</h4>
+                <p>Leveraging extensive expertise, we provide consulting services that align with your business goals and drive sustainable growth.</p>
               </div>
             </div>
             <div class="col-md-6 icon-box">
               <i class="bi bi-dribbble"></i>
               <div>
-                <h4>Labore consequatur</h4>
-                <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+                <h4>Innovative Web Programming</h4>
+                <p>Our creative team delivers cutting-edge web programming solutions that enhance your digital presence and performance.</p>
               </div>
             </div>
             <div class="col-md-6 icon-box">
               <i class="bi bi-filter-circle"></i>
               <div>
-                <h4>Beatae veritatis</h4>
-                <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
+                <h4>Customized Digital Solutions</h4>
+                <p>We develop tailored digital strategies designed to meet your unique business needs and maximize operational efficiency.</p>
               </div>
             </div>
             <div class="col-md-6 icon-box">
               <i class="bi bi-lightning-charge"></i>
               <div>
-                <h4>Molestiae dolor</h4>
-                <p>Et fuga et deserunt et enim. Dolorem architecto ratione tensa raptor marte</p>
+                <h4>Agile Project Delivery</h4>
+                <p>Utilizing agile methodologies, we ensure rapid and reliable delivery of IT projects, keeping you ahead in a competitive market.</p>
               </div>
             </div>
             <div class="col-md-6 icon-box">
               <i class="bi bi-patch-check"></i>
               <div>
-                <h4>Explicabo consectetur</h4>
-                <p>Est autem dicta beatae suscipit. Sint veritatis et sit quasi ab aut inventore</p>
+                <h4>Proven Industry Expertise</h4>
+                <p>With over 10 years of experience, our deep industry knowledge drives measurable success for our clients.</p>
               </div>
             </div>
           </div>
         </div>
         <div class="col-xl-5 d-flex align-items-center order-1 order-xl-2" data-aos="fade-up" data-aos-delay="100">
-          <img src="assets/img/alt-features.png" class="img-fluid" alt="">
+          <img src="assets/img/alt-features.png" class="img-fluid" alt="Navbright Technology Alt Features">
         </div>
       </div>
     </div>
   </section>
-  <!-- /Alt Features Section -->
+<!-- /Alt Features Section -->
 
-  <!-- Services Section -->
+<!-- Services Section -->
   <section id="services" class="services section">
     <div class="container section-title" data-aos="fade-up">
-      <h2>Services</h2>
-      <p>Check Our Services<br></p>
+      <h2>Our Services</h2>
+      <p>Explore our comprehensive IT and digital solutions<br></p>
     </div>
     <div class="container">
       <div class="row gy-4">
+        <!-- Service 1: Robust IT Infrastructure -->
         <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
           <div class="service-item item-cyan position-relative">
-            <i class="bi bi-activity icon"></i>
-            <h3>Nesciunt Mete</h3>
-            <p>Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores iure perferendis tempore et consequatur.</p>
+            <i class="bi bi-server icon"></i>
+            <h3>Robust IT Infrastructure</h3>
+            <p>
+              Our comprehensive IT infrastructure solutions ensure your systems remain secure, reliable, and scalable for future growth.
+            </p>
             <a href="#" class="read-more stretched-link"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
           </div>
         </div>
+        <!-- Service 2: Custom Web Development -->
         <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
           <div class="service-item item-orange position-relative">
-            <i class="bi bi-broadcast icon"></i>
-            <h3>Eosle Commodi</h3>
-            <p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum hic non ut nesciunt dolorem.</p>
+            <i class="bi bi-code-slash icon"></i>
+            <h3>Custom Web Development</h3>
+            <p>
+              We craft responsive and engaging websites tailored to your business needs, ensuring a seamless user experience across all devices.
+            </p>
             <a href="#" class="read-more stretched-link"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
           </div>
         </div>
+        <!-- Service 3: Strategic IT Consulting -->
         <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
           <div class="service-item item-teal position-relative">
-            <i class="bi bi-easel icon"></i>
-            <h3>Ledo Markt</h3>
-            <p>Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus ea aut. Vel qui id voluptas adipisci eos earum corrupti.</p>
+            <i class="bi bi-bar-chart-line icon"></i>
+            <h3>Strategic IT Consulting</h3>
+            <p>
+              Our expert consulting services offer actionable insights and tailored strategies to optimize your IT investments and drive business success.
+            </p>
             <a href="#" class="read-more stretched-link"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
           </div>
         </div>
+        <!-- Service 4: Innovative Web Programming -->
         <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
           <div class="service-item item-red position-relative">
-            <i class="bi bi-bounding-box-circles icon"></i>
-            <h3>Asperiores Commodi</h3>
-            <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea fuga sit provident adipisci neque.</p>
+            <i class="bi bi-laptop icon"></i>
+            <h3>Innovative Web Programming</h3>
+            <p>
+              Leveraging cutting-edge technologies, we deliver robust web programming solutions that empower your online presence and digital performance.
+            </p>
             <a href="#" class="read-more stretched-link"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
           </div>
         </div>
+        <!-- Service 5: Digital Transformation -->
         <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
           <div class="service-item item-indigo position-relative">
-            <i class="bi bi-calendar4-week icon"></i>
-            <h3>Velit Doloremque.</h3>
-            <p>Cumque et suscipit saepe. Est maiores autem enim facilis ut aut ipsam corporis aut. Sed animi at autem alias eius labore.</p>
+            <i class="bi bi-cloud-arrow-up icon"></i>
+            <h3>Digital Transformation</h3>
+            <p>
+              Transform your business with digital solutions that integrate innovative IT strategies and automation to enhance operational efficiency.
+            </p>
             <a href="#" class="read-more stretched-link"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
           </div>
         </div>
+        <!-- Service 6: Managed IT Services -->
         <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
           <div class="service-item item-pink position-relative">
-            <i class="bi bi-chat-square-text icon"></i>
-            <h3>Dolori Architecto</h3>
-            <p>Hic molestias ea quibusdam eos. Fugiat enim doloremque aut neque non et debitis iure. Corrupti recusandae ducimus enim.</p>
+            <i class="bi bi-gear icon"></i>
+            <h3>Managed IT Services</h3>
+            <p>
+              Our proactive managed IT services ensure your environment is secure, optimized, and continuously monitored for peak performance.
+            </p>
             <a href="#" class="read-more stretched-link"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
           </div>
         </div>
       </div>
     </div>
   </section>
-  <!-- /Services Section -->
+<!-- /Services Section -->
 
-  <!-- Pricing Section -->
+<!-- Pricing Section -->
   <section id="pricing" class="pricing section">
     <div class="container section-title" data-aos="fade-up">
-      <h2>Pricing</h2>
-      <p>Check Our Affordable Pricing<br></p>
+      <h2>Pricing Plans</h2>
+      <p>Affordable IT & Digital Solutions for Every Business<br></p>
     </div>
     <div class="container">
       <div class="row gy-4">
+        <!-- Free Plan -->
         <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="100">
           <div class="pricing-tem">
-            <h3 style="color: #20c997;">Free Plan</h3>
+            <h3 style="color: #20c997;">Free IT Assessment</h3>
             <div class="price"><sup>$</sup>0<span> / mo</span></div>
             <div class="icon">
               <i class="bi bi-box" style="color: #20c997;"></i>
             </div>
             <ul>
-              <li>Aida dere</li>
-              <li>Nec feugiat nisl</li>
-              <li>Nulla at volutpat dola</li>
-              <li class="na">Pharetra massa</li>
-              <li class="na">Massa ultricies mi</li>
+              <li>Complimentary IT Assessment</li>
+              <li>Basic Website Audit</li>
+              <li>Access to Our Knowledge Base</li>
+              <li>Limited Email Support</li>
+              <li class="na">Upgrade Options Available</li>
             </ul>
-            <a href="#" class="btn-buy">Buy Now</a>
+            <a href="#" class="btn-buy">Get Started</a>
           </div>
         </div>
+        <!-- Starter Plan -->
         <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="200">
           <div class="pricing-tem">
             <span class="featured">Featured</span>
-            <h3 style="color: #0dcaf0;">Starter Plan</h3>
+            <h3 style="color: #0dcaf0;">Starter IT Package</h3>
             <div class="price"><sup>$</sup>19<span> / mo</span></div>
             <div class="icon">
               <i class="bi bi-send" style="color: #0dcaf0;"></i>
             </div>
             <ul>
-              <li>Aida dere</li>
-              <li>Nec feugiat nisl</li>
-              <li>Nulla at volutpat dola</li>
-              <li>Pharetra massa</li>
-              <li class="na">Massa ultricies mi</li>
+              <li>Customizable IT Support</li>
+              <li>Standard Website Development</li>
+              <li>Monthly IT Consultation</li>
+              <li>Access to Premium Tools</li>
+              <li class="na">Priority Email Support</li>
             </ul>
-            <a href="#" class="btn-buy">Buy Now</a>
+            <a href="#" class="btn-buy">Get Started</a>
           </div>
         </div>
+        <!-- Business Plan -->
         <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="300">
           <div class="pricing-tem">
-            <h3 style="color: #fd7e14;">Business Plan</h3>
+            <h3 style="color: #fd7e14;">Business IT Solution</h3>
             <div class="price"><sup>$</sup>29<span> / mo</span></div>
             <div class="icon">
               <i class="bi bi-airplane" style="color: #fd7e14;"></i>
             </div>
             <ul>
-              <li>Aida dere</li>
-              <li>Nec feugiat nisl</li>
-              <li>Nulla at volutpat dola</li>
-              <li>Pharetra massa</li>
-              <li>Massa ultricies mi</li>
+              <li>Comprehensive IT Management</li>
+              <li>Custom Web Development</li>
+              <li>24/7 Technical Support</li>
+              <li>Dedicated IT Consulting</li>
+              <li>Scalable Infrastructure</li>
             </ul>
-            <a href="#" class="btn-buy">Buy Now</a>
+            <a href="#" class="btn-buy">Get Started</a>
           </div>
         </div>
+        <!-- Ultimate Plan -->
         <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="400">
           <div class="pricing-tem">
-            <h3 style="color: #0d6efd;">Ultimate Plan</h3>
+            <h3 style="color: #0d6efd;">Enterprise IT Plan</h3>
             <div class="price"><sup>$</sup>49<span> / mo</span></div>
             <div class="icon">
               <i class="bi bi-rocket" style="color: #0d6efd;"></i>
             </div>
             <ul>
-              <li>Aida dere</li>
-              <li>Nec feugiat nisl</li>
-              <li>Nulla at volutpat dola</li>
-              <li>Pharetra massa</li>
-              <li>Massa ultricies mi</li>
+              <li>All-Inclusive IT Solutions</li>
+              <li>Full Web Programming Suite</li>
+              <li>Dedicated Account Manager</li>
+              <li>Advanced Security & Monitoring</li>
+              <li>Priority On-Site Support</li>
             </ul>
-            <a href="#" class="btn-buy">Buy Now</a>
+            <a href="#" class="btn-buy">Get Started</a>
           </div>
         </div>
       </div>
     </div>
   </section>
-  <!-- /Pricing Section -->
+<!-- /Pricing Section -->
 
-  <!-- Faq Section -->
+<!-- Faq Section -->
   <section id="faq" class="faq section">
     <div class="container section-title" data-aos="fade-up">
       <h2>F.A.Q</h2>
@@ -395,51 +429,65 @@
     </div>
     <div class="container">
       <div class="row">
+        <!-- Left Column FAQs -->
         <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
           <div class="faq-container">
             <div class="faq-item faq-active">
-              <h3>Non consectetur a erat nam at lectus urna duis?</h3>
+              <h3>What IT services does Navbright Technology provide?</h3>
               <div class="faq-content">
-                <p>Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.</p>
+                <p>
+                  We specialize in a comprehensive range of IT services including infrastructure management, custom web development, IT consulting, and digital transformation solutions tailored to your business needs.
+                </p>
               </div>
               <i class="faq-toggle bi bi-chevron-right"></i>
             </div>
             <div class="faq-item">
-              <h3>Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque?</h3>
+              <h3>How experienced is your team in managing corporate IT systems?</h3>
               <div class="faq-content">
-                <p>Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.</p>
+                <p>
+                  Under the leadership of CEO Mr. Shawn Tee, our team brings over 10 years of expertise in managing corporate IT environments and delivering innovative web programming solutions.
+                </p>
               </div>
               <i class="faq-toggle bi bi-chevron-right"></i>
             </div>
             <div class="faq-item">
-              <h3>Dolor sit amet consectetur adipiscing elit pellentesque?</h3>
+              <h3>How do I get started with your services?</h3>
               <div class="faq-content">
-                <p>Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis</p>
+                <p>
+                  Getting started is simple. Contact us for a complimentary IT assessment and consultation, and we will tailor a solution that meets your unique business requirements.
+                </p>
               </div>
               <i class="faq-toggle bi bi-chevron-right"></i>
             </div>
           </div>
         </div>
+        <!-- Right Column FAQs -->
         <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
           <div class="faq-container">
             <div class="faq-item">
-              <h3>Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla?</h3>
+              <h3>What sets Navbright Technology apart from other IT providers?</h3>
               <div class="faq-content">
-                <p>Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.</p>
+                <p>
+                  Our commitment to innovative solutions, strategic planning, and measurable results distinguishes us. We deliver reliable IT support and cutting-edge web development that drive business success.
+                </p>
               </div>
               <i class="faq-toggle bi bi-chevron-right"></i>
             </div>
             <div class="faq-item">
-              <h3>Tempus quam pellentesque nec nam aliquam sem et tortor consequat?</h3>
+              <h3>Do you offer ongoing support and maintenance?</h3>
               <div class="faq-content">
-                <p>Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in</p>
+                <p>
+                  Yes, we provide comprehensive managed IT services, including 24/7 technical support and continuous maintenance, ensuring your systems remain secure and efficient.
+                </p>
               </div>
               <i class="faq-toggle bi bi-chevron-right"></i>
             </div>
             <div class="faq-item">
-              <h3>Perspiciatis quod quo quos nulla quo illum ullam?</h3>
+              <h3>Can your services be customized to fit specific business needs?</h3>
               <div class="faq-content">
-                <p>Enim ea facilis quaerat voluptas quidem et dolorem. Quis et consequatur non sed in suscipit sequi. Distinctio ipsam dolore et.</p>
+                <p>
+                  Absolutely. We customize our IT and web development solutions to address your unique challenges, ensuring optimal performance and sustainable growth.
+                </p>
               </div>
               <i class="faq-toggle bi bi-chevron-right"></i>
             </div>
@@ -448,37 +496,13 @@
       </div>
     </div>
   </section>
-  <!-- /Faq Section -->
+<!-- /Faq Section -->
 
-  <!-- Portfolio Section -->
-  <section id="portfolio" class="portfolio section">
-    <div class="container section-title" data-aos="fade-up">
-      <h2>Portfolio</h2>
-      <p>Check our latest work</p>
-    </div>
-    <div class="container">
-      <div class="isotope-layout" data-default-filter="*" data-layout="masonry" data-sort="original-order">
-        <ul class="portfolio-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
-          <li data-filter="*" class="filter-active">All</li>
-          <li data-filter=".filter-app">App</li>
-          <li data-filter=".filter-product">Product</li>
-          <li data-filter=".filter-branding">Branding</li>
-          <li data-filter=".filter-books">Books</li>
-        </ul>
-        <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
-          <!-- Portfolio Items -->
-          <!-- (All portfolio items remain unchanged.) -->
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- /Portfolio Section -->
-
-  <!-- Testimonials Section -->
+<!-- Testimonials Section -->
   <section id="testimonials" class="testimonials section">
     <div class="container section-title" data-aos="fade-up">
-      <h2>Testimonials</h2>
-      <p>What they are saying about us<br></p>
+      <h2>Client Testimonials</h2>
+      <p>Hear what our satisfied clients have to say about Navbright Technology<br></p>
     </div>
     <div class="container" data-aos="fade-up" data-aos-delay="100">
       <div class="swiper init-swiper">
@@ -515,7 +539,7 @@
       </div>
     </div>
   </section>
-  <!-- /Testimonials Section -->
+<!-- /Testimonials Section -->
 
   <!-- Team Section -->
   <section id="team" class="team section">
