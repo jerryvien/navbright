@@ -619,76 +619,6 @@
   </section>
 <!-- /Testimonials Section -->
 
-<!-- Team Section -->
-  <section id="team" class="team section">
-    <div class="container section-title" data-aos="fade-up">
-      <h2>Our Team</h2>
-      <p>Meet the dedicated professionals driving Navbright Technology forward</p>
-    </div>
-    <div class="container">
-      <div class="row gy-4">
-        <!-- Team Member 1: Mr Shawn Tee - IT Director -->
-        <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
-          <div class="team-member">
-            <div class="member-img">
-              <img src="assets/img/team/shawn-tee.jpg" class="img-fluid" alt="Mr Shawn Tee - IT Director">
-              <div class="social">
-                <a href="#"><i class="bi bi-twitter-x"></i></a>
-                <a href="#"><i class="bi bi-facebook"></i></a>
-                <a href="#"><i class="bi bi-instagram"></i></a>
-                <a href="#"><i class="bi bi-linkedin"></i></a>
-              </div>
-            </div>
-            <div class="member-info">
-              <h4>Shawn Tee</h4>
-              <span>IT Director</span>
-              <p>Shawn leads our IT strategy with extensive industry expertise and a vision for innovative digital solutions.</p>
-            </div>
-          </div>
-        </div>
-        <!-- Team Member 2: Mr Jackson - IT Manager -->
-        <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
-          <div class="team-member">
-            <div class="member-img">
-              <img src="assets/img/team/jackson.jpg" class="img-fluid" alt="Mr Jackson - IT Manager">
-              <div class="social">
-                <a href="#"><i class="bi bi-twitter-x"></i></a>
-                <a href="#"><i class="bi bi-facebook"></i></a>
-                <a href="#"><i class="bi bi-instagram"></i></a>
-                <a href="#"><i class="bi bi-linkedin"></i></a>
-              </div>
-            </div>
-            <div class="member-info">
-              <h4>Jackson</h4>
-              <span>IT Manager</span>
-              <p>Jackson manages our day-to-day IT operations, ensuring seamless performance and innovative support.</p>
-            </div>
-          </div>
-        </div>
-        <!-- Team Member 3: Ms Gloria Chin - Finance Manager -->
-        <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
-          <div class="team-member">
-            <div class="member-img">
-              <img src="assets/img/team/gloria-chin.jpg" class="img-fluid" alt="Ms Gloria Chin - Finance Manager">
-              <div class="social">
-                <a href="#"><i class="bi bi-twitter-x"></i></a>
-                <a href="#"><i class="bi bi-facebook"></i></a>
-                <a href="#"><i class="bi bi-instagram"></i></a>
-                <a href="#"><i class="bi bi-linkedin"></i></a>
-              </div>
-            </div>
-            <div class="member-info">
-              <h4>Gloria Chin</h4>
-              <span>Business Development Manager</span>
-              <p>Gloria oversees our financial operations and strategic planning, ensuring fiscal stability and growth.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-<!-- /Team Section -->
-
 <!-- Clients Section -->
   <section id="clients" class="clients section">
     <div class="container section-title" data-aos="fade-up">
@@ -777,7 +707,7 @@
               <div class="info-item" data-aos="fade" data-aos-delay="400">
                 <i class="bi bi-envelope"></i>
                 <h3>Email Us</h3>
-                <p>sales@navbright.tech</p>
+                <p>sales@navbright.com</p>
               </div>
             </div>
             <!-- Open Hours -->
