@@ -32,7 +32,7 @@
           <p>Jalan Tun Sambanthan, Brickfields</p>
           <p>50470 Kuala Lumpur, Federal Territory of Kuala Lumpur</p>
           <p class="mt-3"><strong>Phone:</strong> <span>010-2899611</span></p>
-          <p><strong>Email:</strong> <span>sales@navbright.tech</span></p>
+          <p><strong>Email:</strong> <span>sales@navbright.com</span></p>
         </div>
       </div>
 
@@ -75,7 +75,7 @@
   <div class="container copyright text-center mt-4">
     <p>© <span>Copyright</span> <strong class="px-1 sitename">Navbright Technology</strong> <span>All Rights Reserved</span></p>
     <div class="credits">
-      Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+      Designed by <a href="https://navbright.com/">Navbright Technology</a>
     </div>
   </div>
 </footer>
