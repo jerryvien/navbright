@@ -335,8 +335,94 @@
   </section>
 <!-- /Services Section -->
 
+<!-- Pricing Section -->
+  <section id="pricing" class="pricing section">
+    <div class="container section-title" data-aos="fade-up">
+      <h2>Pricing Plans</h2>
+      <p>Affordable IT & Digital Solutions for Every Business<br></p>
+    </div>
+    <div class="container">
+      <div class="row gy-4">
+        <!-- Free Plan -->
+        <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="100">
+          <div class="pricing-tem">
+            <h3 style="color: #20c997;">Free IT Assessment</h3>
+            <div class="price"><sup>$</sup>0<span> / mo</span></div>
+            <div class="icon">
+              <i class="bi bi-box" style="color: #20c997;"></i>
+            </div>
+            <ul>
+              <li>Complimentary IT Assessment</li>
+              <li>Basic Website Audit</li>
+              <li>Access to Our Knowledge Base</li>
+              <li>Limited Email Support</li>
+              <li class="na">Upgrade Options Available</li>
+            </ul>
+            <a href="#" class="btn-buy">Get Started</a>
+          </div>
+        </div>
+        <!-- Starter Plan -->
+        <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="200">
+          <div class="pricing-tem">
+            <span class="featured">Featured</span>
+            <h3 style="color: #0dcaf0;">Starter IT Package</h3>
+            <div class="price"><sup>$</sup>19<span> / mo</span></div>
+            <div class="icon">
+              <i class="bi bi-send" style="color: #0dcaf0;"></i>
+            </div>
+            <ul>
+              <li>Customizable IT Support</li>
+              <li>Standard Website Development</li>
+              <li>Monthly IT Consultation</li>
+              <li>Access to Premium Tools</li>
+              <li class="na">Priority Email Support</li>
+            </ul>
+            <a href="#" class="btn-buy">Get Started</a>
+          </div>
+        </div>
+        <!-- Business Plan -->
+        <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="300">
+          <div class="pricing-tem">
+            <h3 style="color: #fd7e14;">Business IT Solution</h3>
+            <div class="price"><sup>$</sup>29<span> / mo</span></div>
+            <div class="icon">
+              <i class="bi bi-airplane" style="color: #fd7e14;"></i>
+            </div>
+            <ul>
+              <li>Comprehensive IT Management</li>
+              <li>Custom Web Development</li>
+              <li>24/7 Technical Support</li>
+              <li>Dedicated IT Consulting</li>
+              <li>Scalable Infrastructure</li>
+            </ul>
+            <a href="#" class="btn-buy">Get Started</a>
+          </div>
+        </div>
+        <!-- Ultimate Plan -->
+        <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="400">
+          <div class="pricing-tem">
+            <h3 style="color: #0d6efd;">Enterprise IT Plan</h3>
+            <div class="price"><sup>$</sup>49<span> / mo</span></div>
+            <div class="icon">
+              <i class="bi bi-rocket" style="color: #0d6efd;"></i>
+            </div>
+            <ul>
+              <li>All-Inclusive IT Solutions</li>
+              <li>Full Web Programming Suite</li>
+              <li>Dedicated Account Manager</li>
+              <li>Advanced Security & Monitoring</li>
+              <li>Priority On-Site Support</li>
+            </ul>
+            <a href="#" class="btn-buy">Get Started</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+<!-- /Pricing Section -->
+
 <!-- Faq Section -->
-<section id="faq" class="faq section">
+  <section id="faq" class="faq section">
     <div class="container section-title" data-aos="fade-up">
       <h2>F.A.Q</h2>
       <p>Frequently Asked Questions</p>
@@ -359,7 +445,7 @@
               <h3>How experienced is your team in managing corporate IT systems?</h3>
               <div class="faq-content">
                 <p>
-                  Led by CEO Shawn, our team excels in managing corporate IT environments and delivering innovative web programming solutions to enhance business operations.
+                  Under the leadership of CEO Mr. Shawn Tee, our team brings over 10 years of expertise in managing corporate IT environments and delivering innovative web programming solutions.
                 </p>
               </div>
               <i class="faq-toggle bi bi-chevron-right"></i>
@@ -411,7 +497,6 @@
     </div>
   </section>
 <!-- /Faq Section -->
-
 
 <!-- Testimonials Section -->
   <section id="testimonials" class="testimonials section">
