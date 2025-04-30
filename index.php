@@ -22,8 +22,8 @@
           <img src="assets/img/hero-img.png" class="img-fluid animated" alt="Navbright Technology IT & Web Solutions">
         </div>
       </div>
-    </div>
-  </section> -->
+    </div>-->
+  </section> 
 <!-- /Hero Section -->
 
 <!-- About Section -->
