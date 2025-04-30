@@ -484,7 +484,7 @@
               <div class="info-item" data-aos="fade" data-aos-delay="200">
                 <i class="bi bi-geo-alt"></i>
                 <h3>Address</h3>
-                <p>Menara Allianz Sentral, 203,<br>Jalan Tun Sambanthan, Brickfields,<br>50470 Kuala Lumpur,<br>Federal Territory of Kuala Lumpur</p>
+                <p>Unit 16-17, Menara Mutiara Sentral,<br>No. 2, Jalan Desa Aman 1, Cheras Business Centre,<br>56000 Kuala Lumpur,<br>W.P. Kuala Lumpur Malaysia</p>
               </div>
             </div>
             <!-- Phone -->
