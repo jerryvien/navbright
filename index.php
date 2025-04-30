@@ -32,7 +32,7 @@
       <div class="row gx-0">
         <div class="col-lg-6 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
           <div class="content">
-            <h3>HIHIAbout Navbright Technology</h3>
+            <h3>About Navbright Technology</h3>
             <h2>Your Trusted Partner in IT & Digital Innovation</h2>
             <p>
               Navbright Technology has established itself as a premier provider of comprehensive IT solutions and cutting-edge web development. Led by CEO Mr. Shawn Yee, our team excels in managing corporate IT systems and delivering innovative digital solutions that empower business growth.
