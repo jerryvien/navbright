@@ -501,6 +501,8 @@
                 <i class="bi bi-envelope"></i>
                 <h3>Email Us</h3>
                 <p>sales@navbright.com</p>
+                <p></p>
+                <p></p>
               </div>
             </div>
             <!-- Open Hours -->
