@@ -413,7 +413,7 @@
   </section>
 <!-- /Faq Section -->
 
-<!-- Clients Section -->
+<!-- Clients Section 
   <section id="clients" class="clients section">
     <div class="container section-title" data-aos="fade-up">
       <h2>Our Esteemed Clients</h2>
