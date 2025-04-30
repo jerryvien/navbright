@@ -93,7 +93,7 @@
   </section>
 <!-- /Values Section -->
 
-<!-- Stats Section -->
+/*<!-- Stats Section -->
   <section id="stats" class="stats section">
     <div class="container" data-aos="fade-up" data-aos-delay="100">
       <div class="row gy-4">
@@ -140,7 +140,8 @@
       </div>
     </div>
   </section>
-<!-- /Stats Section -->
+<!-- /Stats Section -->*/
+
 
 <!-- Features Section -->
   <section id="features" class="features section">
