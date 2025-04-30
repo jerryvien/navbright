@@ -17,12 +17,12 @@
               <i class="bi bi-play-circle"></i><span>Watch Our Story</span>
             </a>
           </div>
-        </div>
+        </div> -->
         <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-out">
           <img src="assets/img/hero-img.png" class="img-fluid animated" alt="Navbright Technology IT & Web Solutions">
         </div>
       </div>
-    </div>-->
+    </div>
   </section> 
 <!-- /Hero Section -->
 
