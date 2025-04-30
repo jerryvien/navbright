@@ -28,9 +28,9 @@
           <span class="sitename">Navbright Technology</span>
         </a>
         <div class="footer-contact pt-3">
-          <p>Menara Allianz Sentral, 203</p>
-          <p>Jalan Tun Sambanthan, Brickfields</p>
-          <p>50470 Kuala Lumpur, Federal Territory of Kuala Lumpur</p>
+          <p>Unit 16-17, Menara Mutiara Sentral,</p>
+          <p>No. 2, Jalan Desa Aman 1, Cheras Business Centre, </p>
+          <p>56000 Kuala Lumpur W.P. Kuala Lumpur Malaysia</p>
           <p class="mt-3"><strong>Phone:</strong> <span>010-2899611</span></p>
           <p><strong>Email:</strong> <span>sales@navbright.com</span></p>
         </div>
