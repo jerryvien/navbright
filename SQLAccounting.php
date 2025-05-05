@@ -60,22 +60,21 @@ include 'header.php';
 
   <main class="main">
 
-<!-- SQL Accounting Hero Section -->
-  <div class="container">
-    <div class="row gy-4">
-      <div class="col-lg-12 d-flex flex-column justify-content-center text-center" data-aos="fade-up">
-        <h1>SQL Accounting Solutions by Navbright</h1>
-        <p>
-          As an authorized SQL Accounting dealer in Malaysia, Navbright Technology Group delivers powerful, cloud-based accounting software to simplify financial management for businesses of all sizes. Streamline your invoicing, inventory, and compliance with our tailored SQL Accounting solutions.
-        </p>
-        <a href="https://wa.link/dvw5fe" class="btn-get-started">Get a Free Consultation <i class="bi bi-arrow-right"></i></a>
+    <!-- SQL Accounting Hero Section -->
+    <section id="sql-hero" class="hero section">
+      <div class="container">
+        <div class="row gy-4">
+          <div class="col-lg-12 d-flex flex-column justify-content-center text-center" data-aos="fade-up">
+            <h1>SQL Accounting Solutions by Navbright</h1>
+            <p>
+              As an authorized SQL Accounting dealer in Malaysia, Navbright Technology Group delivers powerful, cloud-based accounting software to simplify financial management for businesses of all sizes. Streamline your invoicing, inventory, and compliance with our tailored SQL Accounting solutions.
+            </p>
+            <a href="https://wa.link/dvw5fe" class="btn-get-started">Get a Free Consultation <i class="bi bi-arrow-right"></i></a>
+          </div>
+        </div>
       </div>
-    </div>
-  </div>
-</section>
-<!-- /SQL Accounting Hero Section -->
-
-
+    </section>
+    <!-- /SQL Accounting Hero Section -->
 
     <!-- SQL Accounting Features Section -->
     <section id="sql-features" class="portfolio section">
