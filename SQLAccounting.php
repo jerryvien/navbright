@@ -59,6 +59,7 @@ include 'header.php';
   </header>
 
   <main class="main">
+
 <!-- Accountant Pricing Section -->
 <section id="accountant-pricing" class="section bg-light py-5">
   <div class="container" data-aos="fade-up">
@@ -68,32 +69,44 @@ include 'header.php';
     </div>
 
     <div class="row gy-4 justify-content-center">
+
+          <!-- Public Cloud -->
+          <div class="col-lg-3 col-md-6">
+        <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded">
+          <h3 class="text-primary">SQL Single Company</h3>
+          <p class="price display-4">RM1,499 <span class="fs-6">/month/company</span></p>
+          <ul class="list-unstyled mt-3 mb-4">
+          <li><i class="bi bi-check-circle-fill text-success me-2"></i> General Ledger</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Customer</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Sales</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Purchase</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Basic Stock</li>
+          </ul>
+          <a href="https://wa.link/dvw5fe" class="btn btn-primary w-100" target="_blank">I'm Interested</a>
+        </div>
+      </div>
+      
       <!-- SQL Accountant Set -->
       <div class="col-lg-3 col-md-6">
         <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded">
           <h3 class="text-primary">SQL Accountant Set</h3>
           <p class="price display-4">RM1,899</p>
           <ul class="list-unstyled mt-3 mb-4">
-            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Support Unlimited Companies</li>
-            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Add 1 User with RM700 (Get 2 Users)</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> General Ledger</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Customer</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Sales</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Purchase</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Basic Stock</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Advance Stock</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Advance Reports</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Pro-Package</li>
+            
           </ul>
           <a href="https://wa.link/dvw5fe" class="btn btn-primary w-100" target="_blank">I'm Interested</a>
         </div>
       </div>
 
-      <!-- Public Cloud -->
-      <div class="col-lg-3 col-md-6">
-        <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded">
-          <h3 class="text-primary">Public Cloud</h3>
-          <p class="price display-4">RM42 <span class="fs-6">/month/company</span></p>
-          <ul class="list-unstyled mt-3 mb-4">
-            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Support 2 Users</li>
-            <li><i class="bi bi-check-circle-fill text-success me-2"></i> RM29/month/company if >10 companies</li>
-            <li><i class="bi bi-check-circle-fill text-success me-2"></i> 10 Years Price Guarantee</li>
-          </ul>
-          <a href="https://wa.link/dvw5fe" class="btn btn-primary w-100" target="_blank">I'm Interested</a>
-        </div>
-      </div>
+
 
       <!-- Private Cloud -->
       <div class="col-lg-3 col-md-6">
