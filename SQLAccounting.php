@@ -40,7 +40,7 @@ include 'header.php';
     <div class="container-fluid container-xl position-relative d-flex align-items-center">
       <a href="index.html" class="logo d-flex align-items-center me-auto">
         <img src="assets/img/logo.png" alt="Navbright Technology Logo">
-        <h1 class="sitename">Navbright Technology</h1>
+        <h1 class="sitename">Navbright Technology Group</h1>
       </a>
       <nav id="navmenu" class="navmenu">
         <ul>
@@ -65,9 +65,9 @@ include 'header.php';
   <div class="container">
     <div class="row gy-4">
       <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
-        <h1 data-aos="fade-up">Navbright Technology Group – Premier IT & Web Solutions</h1>
+        <h1 data-aos="fade-up">Navbright Technology Group X SQL Accounting</h1>
         <p data-aos="fade-up" data-aos-delay="100">
-          Navbright Technology Group delivers innovative AI and IT solutions, transforming business processes into agile, efficient systems. We specialize in IT services, consulting, and web development, helping clients enhance productivity, optimize operations, and achieve digital growth.
+        At Navbright Technology Group, we are committed to helping businesses thrive through smart technology solutions. That’s why we’ve partnered with SQL Accounting, Malaysia’s #1 accounting software, to bring you a powerful and reliable financial management system.
         </p>
         <div class="d-flex flex-column flex-md-row" data-aos="fade-up" data-aos-delay="200">
           <a href="#about" class="btn-get-started">Discover More <i class="bi bi-arrow-right"></i></a>
