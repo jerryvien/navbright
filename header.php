@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Navbright Technology - Innovative IT & Web Solutions</title>
+  <title>Navbright Technology Group - Innovative IT & Web Solutions</title>
   <meta name="description" content="Navbright Technology offers innovative IT services, web development, IT consulting, and custom web programming solutions. Established in 2015 and led by industry expert Mr. Shawn Tee, we deliver digital transformation and corporate IT excellence.">
   <meta name="keywords" content="IT services, Web Development, IT Consulting, Web Programming, Navbright Technology, Corporate IT, Digital Solutions">
 
