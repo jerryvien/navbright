@@ -1296,7 +1296,7 @@ section,
 }
 
 .pricing .price {
-  font-size: 36px;
+  font-size: 30px;
   color: var(--heading-color);
   font-weight: 600;
   font-family: var(--heading-font);
