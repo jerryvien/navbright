@@ -69,7 +69,7 @@ include 'header.php';
 
     <div class="row gy-4 justify-content-center">
       <!-- SQL Accountant Set -->
-      <div class="col-lg-4 col-md-6">
+      <div class="col-lg-3 col-md-6">
         <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded">
           <h3 class="text-primary">SQL Accountant Set</h3>
           <p class="price display-4">RM1,899</p>
@@ -82,7 +82,7 @@ include 'header.php';
       </div>
 
       <!-- Public Cloud -->
-      <div class="col-lg-4 col-md-6">
+      <div class="col-lg-3 col-md-6">
         <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded">
           <h3 class="text-primary">Public Cloud</h3>
           <p class="price display-4">RM42 <span class="fs-6">/month/company</span></p>
@@ -96,7 +96,7 @@ include 'header.php';
       </div>
 
       <!-- Private Cloud -->
-      <div class="col-lg-4 col-md-6">
+      <div class="col-lg-3 col-md-6">
         <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded">
           <h3 class="text-primary">Private Cloud</h3>
           <p class="price display-4">RM3,000 – RM3,800</p>
@@ -107,24 +107,23 @@ include 'header.php';
           <a href="https://wa.link/dvw5fe" class="btn btn-primary w-100" target="_blank">I'm Interested</a>
         </div>
       </div>
-    </div>
-  </div>
-</section>
 
-<div class="row gy-4 justify-content-center">
-      <!-- Business Plan -->
-      <div class="col-lg-4 col-md-6">
+      <!-- New Product (Example) -->
+      <div class="col-lg-3 col-md-6">
         <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded">
-          <h3 class="text-primary">Business Plan</h3>
-          <p class="price display-4">RM2,499</p>
+          <h3 class="text-primary">New Product</h3>
+          <p class="price display-4">RM2,500</p>
           <ul class="list-unstyled mt-3 mb-4">
-            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Unlimited Users</li>
-            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Priority Support</li>
-            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Custom Reports</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Feature 1</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Feature 2</li>
           </ul>
           <a href="https://wa.link/dvw5fe" class="btn btn-primary w-100" target="_blank">I'm Interested</a>
         </div>
       </div>
+    </div>
+  </div>
+</section>
+
 
 <!-- New Pricing Section -->
 <section id="new-pricing" class="section bg-light py-5">
