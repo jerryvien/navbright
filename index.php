@@ -7,9 +7,9 @@
     <div class="container">
       <div class="row gy-4">
         <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
-          <h1 data-aos="fade-up">Navbright Technology – Premier IT & Web Solutions</h1>
+          <h1 data-aos="fade-up">Navbright Technology Group – Premier IT & Web Solutions</h1>
           <p data-aos="fade-up" data-aos-delay="100">
-          Navbright Technology delivers innovative AI and IT solutions, transforming business processes into agile, efficient systems. We specialize in IT services, consulting, and web development, helping clients enhance productivity, optimize operations, and achieve digital growth.
+          Navbright Technology Group delivers innovative AI and IT solutions, transforming business processes into agile, efficient systems. We specialize in IT services, consulting, and web development, helping clients enhance productivity, optimize operations, and achieve digital growth.
           </p>
           <div class="d-flex flex-column flex-md-row" data-aos="fade-up" data-aos-delay="200">
             <a href="#about" class="btn-get-started">Discover More <i class="bi bi-arrow-right"></i></a>
@@ -19,7 +19,7 @@
           </div>
         </div> 
         <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-out">
-          <img src="assets/img/hero-img.png" class="img-fluid animated" alt="Navbright Technology IT & Web Solutions">
+          <img src="assets/img/hero-img.png" class="img-fluid animated" alt="Navbright Technology Group IT & Web Solutions">
         </div>
       </div>
     </div>
@@ -32,10 +32,10 @@
       <div class="row gx-0">
         <div class="col-lg-6 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
           <div class="content">
-            <h3>About Navbright Technology</h3>
+            <h3>About Navbright Technology Group</h3>
             <h2>Your Trusted Partner in IT & Digital Innovation</h2>
             <p>
-              Navbright Technology has established itself as a premier provider of comprehensive IT solutions and cutting-edge web development. Led by CEO Mr. Shawn Yee, our team excels in managing corporate IT systems and delivering innovative digital solutions that empower business growth.
+              Navbright Technology Group has established itself as a premier provider of comprehensive IT solutions and cutting-edge web development. Led by CEO Mr. Shawn Yee, our team excels in managing corporate IT systems and delivering innovative digital solutions that empower business growth.
             </p>
             <div class="text-center text-lg-start">
               <a href="#services" class="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">
@@ -46,7 +46,7 @@
           </div>
         </div>
         <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
-          <img src="assets/img/about.jpg" class="img-fluid" alt="About Navbright Technology">
+          <img src="assets/img/about.jpg" class="img-fluid" alt="About Navbright Technology Group">
         </div>
       </div>
     </div>
@@ -66,7 +66,7 @@
             <img src="assets/img/values-1.png" class="img-fluid" alt="Innovative Solutions">
             <h3>Innovative</h3>
             <p>
-              At Navbright Technology, innovation is at the heart of everything we do. We embrace cutting-edge technologies and creative approaches to deliver IT and web solutions that set your business apart.
+              At Navbright Technology Group, innovation is at the heart of everything we do. We embrace cutting-edge technologies and creative approaches to deliver IT and web solutions that set your business apart.
             </p>
           </div>
         </div>
@@ -152,7 +152,7 @@
     <div class="container">
       <div class="row gy-5">
         <div class="col-xl-6" data-aos="zoom-out" data-aos-delay="100">
-          <img src="assets/img/features.png" class="img-fluid" alt="Navbright Technology Features">
+          <img src="assets/img/features.png" class="img-fluid" alt="Navbright Technology Group Features">
         </div>
         <div class="col-xl-6 d-flex">
           <div class="row align-self-center gy-4">
@@ -250,7 +250,7 @@
           </div>
         </div>
         <div class="col-xl-5 d-flex align-items-center order-1 order-xl-2" data-aos="fade-up" data-aos-delay="100">
-          <img src="assets/img/alt-features.png" class="img-fluid" alt="Navbright Technology Alt Features">
+          <img src="assets/img/alt-features.png" class="img-fluid" alt="Navbright Technology Group Alt Features">
         </div>
       </div>
     </div>
@@ -348,7 +348,7 @@
         <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
           <div class="faq-container">
             <div class="faq-item faq-active">
-              <h3>What IT services does Navbright Technology provide?</h3>
+              <h3>What IT services does Navbright Technology Group provide?</h3>
               <div class="faq-content">
                 <p>
                   We specialize in a comprehensive range of IT services including infrastructure management, custom web development, IT consulting, and digital transformation solutions tailored to your business needs.
@@ -380,7 +380,7 @@
         <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
           <div class="faq-container">
             <div class="faq-item">
-              <h3>What sets Navbright Technology apart from other IT providers?</h3>
+              <h3>What sets Navbright Technology Group apart from other IT providers?</h3>
               <div class="faq-content">
                 <p>
                   Our commitment to innovative solutions, strategic planning, and measurable results distinguishes us. We deliver reliable IT support and cutting-edge web development that drive business success.
@@ -474,7 +474,7 @@
   <section id="contact" class="contact section">
     <div class="container section-title" data-aos="fade-up">
       <h2>Contact Us</h2>
-      <p>Get in Touch with Navbright Technology</p>
+      <p>Get in Touch with Navbright Technology Group</p>
     </div>
     <div class="container" data-aos="fade-up" data-aos-delay="100">
       <div class="row gy-4">
