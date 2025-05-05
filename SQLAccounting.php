@@ -70,7 +70,7 @@ include 'header.php';
 
     <div class="row gy-4 justify-content-center">
 
-          <!-- Public Cloud -->
+          <!-- single company  -->
           <div class="col-lg-3 col-md-6">
         <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded">
           <h3 class="text-primary">SQL Single Company</h3>
@@ -107,9 +107,7 @@ include 'header.php';
             <li><i class="bi bi-check-circle-fill text-success me-2"></i> Sales</li>
             <li><i class="bi bi-check-circle-fill text-success me-2"></i> Purchase</li>
             <li><i class="bi bi-check-circle-fill text-success me-2"></i> Basic Stock</li>
-            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Advance Stock</li>
-            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Advance Reports</li>
-            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Pro-Package</li>
+  
             
           </ul>
           <a href="https://wa.link/dvw5fe" class="btn btn-primary w-100" target="_blank">I'm Interested</a>
@@ -118,14 +116,22 @@ include 'header.php';
 
 
 
-      <!-- Private Cloud -->
+      <!-- Public Cloud -->
       <div class="col-lg-3 col-md-6">
         <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded">
-          <h3 class="text-primary">Private Cloud</h3>
-          <p class="price display-4">RM3,000 – RM3,800</p>
+          <h3 class="text-primary">Public Cloud</h3>
+          <p class="price display-4">RM 79/Montly</p>
           <ul class="list-unstyled mt-3 mb-4">
-            <li><i class="bi bi-check-circle-fill text-success me-2"></i> One-Time Fee</li>
-            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Unlimited Companies</li>
+          <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Company</li>
+          <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Concurent User</li>
+          <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Session Training</li>
+          <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1st Year Support</li>
+          <p></p>
+          <li><i class="bi bi-check-circle-fill text-success me-2"></i> General Ledger</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Customer</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Sales</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Purchase</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Basic Stock</li>
           </ul>
           <a href="https://wa.link/dvw5fe" class="btn btn-primary w-100" target="_blank">I'm Interested</a>
         </div>
@@ -134,11 +140,22 @@ include 'header.php';
       <!-- New Product (Example) -->
       <div class="col-lg-3 col-md-6">
         <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded">
-          <h3 class="text-primary">New Product</h3>
-          <p class="price display-4">RM2,500</p>
+          <h3 class="text-primary">Public Cloud + Adv Stock</h3>
+          <p class="price display-4">RM109/Montly</p>
           <ul class="list-unstyled mt-3 mb-4">
-            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Feature 1</li>
-            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Feature 2</li>
+          <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Company</li>
+          <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Concurent User</li>
+          <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Session Training</li>
+          <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1st Year Support</li>
+          <p></p>
+          <li><i class="bi bi-check-circle-fill text-success me-2"></i> General Ledger</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Customer</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Sales</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Purchase</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Basic Stock</li>
+          <li><i class="bi bi-check-circle-fill text-success me-2"></i> Advance Stock</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Advance Reports</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Pro-Package</li>
           </ul>
           <a href="https://wa.link/dvw5fe" class="btn btn-primary w-100" target="_blank">I'm Interested</a>
         </div>
