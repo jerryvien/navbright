@@ -111,15 +111,7 @@ include 'header.php';
   </div>
 </section>
 
-<!-- New Pricing Section -->
-<section id="new-pricing" class="section bg-light py-5">
-  <div class="container" data-aos="fade-up">
-    <div class="section-title text-center mb-5">
-      <h2>Additional Pricing Options</h2>
-      <p>Explore more options for your business needs.</p>
-    </div>
-
-    <div class="row gy-4 justify-content-center">
+<div class="row gy-4 justify-content-center">
       <!-- Business Plan -->
       <div class="col-lg-4 col-md-6">
         <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded">
@@ -133,6 +125,15 @@ include 'header.php';
           <a href="https://wa.link/dvw5fe" class="btn btn-primary w-100" target="_blank">I'm Interested</a>
         </div>
       </div>
+
+<!-- New Pricing Section -->
+<section id="new-pricing" class="section bg-light py-5">
+  <div class="container" data-aos="fade-up">
+    <div class="section-title text-center mb-5">
+      <h2>Additional Pricing Options</h2>
+      <p>Explore more options for your business needs.</p>
+    </div>
+
 
   
 
