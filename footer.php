@@ -1,4 +1,4 @@
-<!-- Footer Section 
+<!-- Footer Section -->
 <footer id="footer" class="footer">
   <div class="footer-newsletter">
     <div class="container">
@@ -18,7 +18,7 @@
         </div>
       </div>
     </div>
-  </div>-->
+  </div>
 
   <div class="container footer-top">
     <div class="row gy-4">
