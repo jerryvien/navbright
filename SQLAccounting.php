@@ -61,8 +61,7 @@ include 'header.php';
   <main class="main">
 
 <!-- Hero Section -->
-<section id="hero" class="hero section" style="background: url('assets/img/hero-bg.png') no-repeat center center; background-size: cover; min-height: 10vh;">
-  <div class="container">
+<section id="hero" class="hero section" style="background: url('assets/img/hero-bg.png') no-repeat center center; background-size: cover; background-position: center; background-attachment: fixed; min-height: 100vh;">  <div class="container">
     <div class="row gy-4">
       <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
         <h1 data-aos="fade-up">Navbright Technology Group – Premier IT & Web Solutions</h1>
