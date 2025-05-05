@@ -111,6 +111,22 @@ include 'header.php';
   </div>
 </section>
 
+<!-- Private Cloud -->
+<div class="col-lg-4 col-md-6">
+        <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded">
+          <h3 class="text-primary">Private Cloud</h3>
+          <p class="price display-4">RM3,000 – RM3,800</p>
+          <ul class="list-unstyled mt-3 mb-4">
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> One-Time Fee</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Unlimited Companies</li>
+          </ul>
+          <a href="https://wa.link/dvw5fe" class="btn btn-primary w-100" target="_blank">I'm Interested</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 <!-- Accountant Features Section -->
 <section id="accountant-features" class="section py-5">
   <div class="container" data-aos="fade-up">
