@@ -134,22 +134,7 @@ include 'header.php';
         </div>
       </div>
 
-      <!-- Enterprise Plan -->
-      <div class="col-lg-4 col-md-6">
-        <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded">
-          <h3 class="text-primary">Enterprise Plan</h3>
-          <p class="price display-4">RM5,000</p>
-          <ul class="list-unstyled mt-3 mb-4">
-            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Unlimited Users</li>
-            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Dedicated Account Manager</li>
-            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Custom Integrations</li>
-          </ul>
-          <a href="https://wa.link/dvw5fe" class="btn btn-primary w-100" target="_blank">I'm Interested</a>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+  
 
 
     <!-- SQL Accounting Features Section -->
