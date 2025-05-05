@@ -76,6 +76,10 @@ include 'header.php';
           <h3 class="text-primary">SQL Single Company</h3>
           <p class="price display-4">RM1,499 </p>
           <ul class="list-unstyled mt-3 mb-4">
+          <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Company</li>
+          <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Concurent User</li>
+          <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Session Training</li>
+          <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1st Year Support</li>
           <li><i class="bi bi-check-circle-fill text-success me-2"></i> General Ledger</li>
             <li><i class="bi bi-check-circle-fill text-success me-2"></i> Customer</li>
             <li><i class="bi bi-check-circle-fill text-success me-2"></i> Sales</li>
@@ -92,6 +96,10 @@ include 'header.php';
           <h3 class="text-primary">SQL Accountant Set</h3>
           <p class="price display-4">RM1,899</p>
           <ul class="list-unstyled mt-3 mb-4">
+          <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Company</li>
+          <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Concurent User</li>
+          <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Session Training</li>
+          <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1st Year Support</li>
             <li><i class="bi bi-check-circle-fill text-success me-2"></i> General Ledger</li>
             <li><i class="bi bi-check-circle-fill text-success me-2"></i> Customer</li>
             <li><i class="bi bi-check-circle-fill text-success me-2"></i> Sales</li>
