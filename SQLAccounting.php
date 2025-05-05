@@ -100,7 +100,7 @@ include 'header.php';
           <!-- single company  -->
           <div class="col-lg-4 col-md-6">
         <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded">
-          <h3 class="text-primary">SQL Single Company</h3>
+          <h3 class="text-primary-4">SQL Single Company</h3>
           <p class="price display-7">RM1,499 </p>
           <ul class="list-unstyled mt-3 mb-4">
           <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Company</li>
