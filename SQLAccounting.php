@@ -47,7 +47,7 @@ include 'header.php';
           <li><a href="index.html#hero">Home</a></li>
           <li><a href="index.html#about">About</a></li>
           <li><a href="index.html#services">Services</a></li>
-          <li><a href="https://www.google.com" class="active">SQL Accounting</a></li>
+          <li><a href="SQLAccounting.php" class="active">SQL Accounting</a></li>
           <li><a href="index.html#contact">Contact</a></li>
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
@@ -69,7 +69,7 @@ include 'header.php';
             <p>
               As an authorized SQL Accounting dealer in Malaysia, Navbright Technology Group delivers powerful, cloud-based accounting software to simplify financial management for businesses of all sizes. Streamline your invoicing, inventory, and compliance with our tailored SQL Accounting solutions.
             </p>
-            <a href="#contact" class="btn-get-started">Get a Free Consultation <i class="bi bi-arrow-right"></i></a>
+            <a href="https://wa.link/dvw5fe" class="btn-get-started">Get a Free Consultation <i class="bi bi-arrow-right"></i></a>
           </div>
         </div>
       </div>
@@ -91,7 +91,7 @@ include 'header.php';
               <div class="portfolio-info">
                 <h3>Seamless E-Invoicing</h3>
                 <p>Integrate with LHDN’s MyInvois portal for compliant, one-click invoice generation, reducing manual work and ensuring tax compliance.</p>
-                <a href="#contact" class="btn-learn-more">Learn More</a>
+                <a href="https://wa.link/dvw5fe" class="btn-learn-more">Learn More</a>
               </div>
             </div>
           </div>
@@ -102,7 +102,7 @@ include 'header.php';
               <div class="portfolio-info">
                 <h3>Real-Time Financial Reporting</h3>
                 <p>Access customizable financial reports and analytics to make informed decisions and track business performance instantly.</p>
-                <a href="#contact" class="btn-learn-more">Learn More</a>
+                <a href="https://wa.link/dvw5fe" class="btn-learn-more">Learn More</a>
               </div>
             </div>
           </div>
@@ -113,7 +113,7 @@ include 'header.php';
               <div class="portfolio-info">
                 <h3>Inventory Management</h3>
                 <p>Effortlessly track stock levels, manage purchase orders, and optimize inventory with integrated tools designed for efficiency.</p>
-                <a href="#contact" class="btn-learn-more">Learn More</a>
+                <a href="https://wa.link/dvw5fe" class="btn-learn-more">Learn More</a>
               </div>
             </div>
           </div>
@@ -168,7 +168,7 @@ include 'header.php';
             <p>
               Partner with Navbright Technology Group to leverage SQL Accounting’s powerful features and our expert support. Contact us for a free demo and consultation.
             </p>
-            <a href="#contact" class="btn-get-started">Request a Demo <i class="bi bi-arrow-right"></i></a>
+            <a href="https://wa.link/dvw5fe" class="btn-get-started">Request a Demo <i class="bi bi-arrow-right"></i></a>
           </div>
         </div>
       </div>
