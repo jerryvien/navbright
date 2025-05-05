@@ -76,6 +76,9 @@ include 'header.php';
           <a href="#about" class="btn-get-started">Discover More <i class="bi bi-arrow-right"></i></a>
         </div>
       </div> 
+      <p></p>
+      <p></p>
+      <p></p>
       <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-out">
         <img src="assets/img/sql-accounting-logo.png" class="img-fluid animated" alt="Navbright Technology Group IT & Web Solutions">
       </div>
