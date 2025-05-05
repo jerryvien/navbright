@@ -111,14 +111,38 @@ include 'header.php';
   </div>
 </section>
 
-<!-- Private Cloud -->
-<div class="col-lg-4 col-md-6">
+<!-- New Pricing Section -->
+<section id="new-pricing" class="section bg-light py-5">
+  <div class="container" data-aos="fade-up">
+    <div class="section-title text-center mb-5">
+      <h2>Additional Pricing Options</h2>
+      <p>Explore more options for your business needs.</p>
+    </div>
+
+    <div class="row gy-4 justify-content-center">
+      <!-- Business Plan -->
+      <div class="col-lg-4 col-md-6">
         <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded">
-          <h3 class="text-primary">Private Cloud</h3>
-          <p class="price display-4">RM3,000 – RM3,800</p>
+          <h3 class="text-primary">Business Plan</h3>
+          <p class="price display-4">RM2,499</p>
           <ul class="list-unstyled mt-3 mb-4">
-            <li><i class="bi bi-check-circle-fill text-success me-2"></i> One-Time Fee</li>
-            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Unlimited Companies</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Unlimited Users</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Priority Support</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Custom Reports</li>
+          </ul>
+          <a href="https://wa.link/dvw5fe" class="btn btn-primary w-100" target="_blank">I'm Interested</a>
+        </div>
+      </div>
+
+      <!-- Enterprise Plan -->
+      <div class="col-lg-4 col-md-6">
+        <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded">
+          <h3 class="text-primary">Enterprise Plan</h3>
+          <p class="price display-4">RM5,000</p>
+          <ul class="list-unstyled mt-3 mb-4">
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Unlimited Users</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Dedicated Account Manager</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Custom Integrations</li>
           </ul>
           <a href="https://wa.link/dvw5fe" class="btn btn-primary w-100" target="_blank">I'm Interested</a>
         </div>
@@ -127,74 +151,6 @@ include 'header.php';
   </div>
 </section>
 
-<!-- Accountant Features Section -->
-<section id="accountant-features" class="section py-5">
-  <div class="container" data-aos="fade-up">
-    <div class="section-title text-center mb-5">
-      <h2>Key Features for Accountants</h2>
-      <p>Enhance your accounting practice with these powerful tools.</p>
-    </div>
-
-    <div class="row gy-4">
-      <div class="col-lg-4 col-md-6">
-        <div class="feature-card h-100 p-4 bg-white rounded shadow-sm">
-          <div class="icon mb-3"><i class="bi bi-lightning-charge-fill fs-1 text-primary"></i></div>
-          <h4>Fast Entry</h4>
-          <p>Input multiple invoices quickly in a grid view. Copy-paste rows from Excel to SQL directly.</p>
-        </div>
-      </div>
-
-      <div class="col-lg-4 col-md-6">
-        <div class="feature-card h-100 p-4 bg-white rounded shadow-sm">
-          <div class="icon mb-3"><i class="bi bi-cloud-arrow-up-fill fs-1 text-primary"></i></div>
-          <h4>Cloud Solution Available</h4>
-          <p>Access via browser or app. Hybrid cloud ensures operations even if internet is down.</p>
-        </div>
-      </div>
-
-      <div class="col-lg-4 col-md-6">
-        <div class="feature-card h-100 p-4 bg-white rounded shadow-sm">
-          <div class="icon mb-3"><i class="bi bi-bank fs-1 text-primary"></i></div>
-          <h4>Auto Bank Reconciliation</h4>
-          <p>Automatically match entries from bank statements with your accounting records.</p>
-        </div>
-      </div>
-
-      <div class="col-lg-4 col-md-6">
-        <div class="feature-card h-100 p-4 bg-white rounded shadow-sm">
-          <div class="icon mb-3"><i class="bi bi-file-earmark-text-fill fs-1 text-primary"></i></div>
-          <h4>Paperless Document Storage</h4>
-          <p>Upload and access invoices, receipts, and more online. No more hardcopies!</p>
-        </div>
-      </div>
-
-      <div class="col-lg-4 col-md-6">
-        <div class="feature-card h-100 p-4 bg-white rounded shadow-sm">
-          <div class="icon mb-3"><i class="bi bi-building fs-1 text-primary"></i></div>
-          <h4>Unlimited Companies</h4>
-          <p>Manage an unlimited number of companies in a single system. Ideal for firms.</p>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-
-    <!-- SQL Accounting Hero Section -->
-    <section id="sql-hero" class="hero section">
-      <div class="container">
-        <div class="row gy-4">
-          <div class="col-lg-12 d-flex flex-column justify-content-center text-center" data-aos="fade-up">
-            <h1>SQL Accounting Solutions by Navbright</h1>
-            <p>
-              As an authorized SQL Accounting dealer in Malaysia, Navbright Technology Group delivers powerful, cloud-based accounting software to simplify financial management for businesses of all sizes. Streamline your invoicing, inventory, and compliance with our tailored SQL Accounting solutions.
-            </p>
-            <a href="https://wa.link/dvw5fe" class="btn-get-started">Get a Free Consultation <i class="bi bi-arrow-right"></i></a>
-          </div>
-        </div>
-      </div>
-    </section>
-    <!-- /SQL Accounting Hero Section -->
 
     <!-- SQL Accounting Features Section -->
     <section id="sql-features" class="portfolio section">
