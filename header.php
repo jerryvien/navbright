@@ -11,7 +11,7 @@
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-
+  https://wa.link/dvw5fe
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com" rel="preconnect">
   <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
@@ -35,7 +35,7 @@
     <div class="container-fluid container-xl position-relative d-flex align-items-center">
       <a href="index.html" class="logo d-flex align-items-center me-auto">
         <img src="assets/img/logo.png" alt="Navbright Technology Logo">
-        <h1 class="sitename">Navbright Technology</h1>
+        <h1 class="sitename">Navbright Technology Group</h1>
       </a>
       <nav id="navmenu" class="navmenu">
         <ul>

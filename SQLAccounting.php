@@ -40,7 +40,7 @@ include 'header.php';
     <div class="container-fluid container-xl position-relative d-flex align-items-center">
       <a href="index.html" class="logo d-flex align-items-center me-auto">
         <img src="assets/img/logo.png" alt="Navbright Technology Logo">
-        <h1 class="sitename">Navbright Technology</h1>
+        <h1 class="sitename">Navbright Technology Group</h1>
       </a>
       <nav id="navmenu" class="navmenu">
         <ul>
