@@ -74,7 +74,7 @@ include 'header.php';
         </div>
       </div> 
       <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-out">
-        <img src="assets/img/hql-accounting-logo.png" class="img-fluid animated" alt="Navbright Technology Group IT & Web Solutions">
+        <img src="assets/img/sql-accounting-logo.png" class="img-fluid animated" alt="Navbright Technology Group IT & Web Solutions">
       </div>
     </div>
   </div>
