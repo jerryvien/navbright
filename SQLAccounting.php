@@ -98,8 +98,8 @@ include 'header.php';
     <div class="row gy-4 justify-content-center">
 
           <!-- single company  -->
-          <div class="col-lg-3 col-md-6">
-        <div class="pricing-card h-1100 shadow-sm p-4 bg-white rounded">
+          <div class="col-lg-1 col-md-6">
+        <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded">
           <h3 class="text-primary">SQL Single Company</h3>
           <p class="price display-7">RM1,499 </p>
           <ul class="list-unstyled mt-3 mb-4">
