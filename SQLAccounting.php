@@ -61,7 +61,7 @@ include 'header.php';
   <main class="main">
 
 <!-- SQL Accounting Hero Section -->
-<section id="sql-hero" class="hero section" style="background: url('<?php echo get_template_directory_uri(); ?>/assets/img/sql-hero-bg.png') center center / cover no-repeat;">
+<section id="sql-hero" class="hero section" style="background: url('<?php get_stylesheet_directory_uri(); ?>/assets/img/sql-hero-bg.png') center center / cover no-repeat;">
   <div class="container">
     <div class="row gy-4">
       <div class="col-lg-12 d-flex flex-column justify-content-center text-center" data-aos="fade-up">
