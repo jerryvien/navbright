@@ -61,7 +61,7 @@ include 'header.php';
   <main class="main">
 
 <!-- Hero Section -->
-<section id="hero" class="hero section" style="background: url('assets/img/sql-accounting-logo.png') no-repeat center center; background-size: cover; min-height: 10vh;">
+<section id="hero" class="hero section" style="background: url('assets/img/sql-accounting-logso.png') no-repeat center center; background-size: cover; min-height: 10vh;">
   <div class="container">
     <div class="row gy-4">
       <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
@@ -74,7 +74,7 @@ include 'header.php';
         </div>
       </div> 
       <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-out">
-        <img src="assets/img/hero-img.png" class="img-fluid animated" alt="Navbright Technology Group IT & Web Solutions">
+        <img src="assets/img/hql-accounting-logo.png" class="img-fluid animated" alt="Navbright Technology Group IT & Web Solutions">
       </div>
     </div>
   </div>
