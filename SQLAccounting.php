@@ -35,32 +35,22 @@ include 'header.php';
 
 <body class="sql-accounting-page">
 
-  <!-- Header Section -->
-  <header id="header" class="header d-flex align-items-center fixed-top">
-    <div class="container-fluid container-xl position-relative d-flex align-items-center">
-      <a href="index.html" class="logo d-flex align-items-center me-auto">
-        <img src="assets/img/logo.png" alt="Navbright Technology Logo">
-        <h1 class="sitename">Navbright Technology Group</h1>
-      </a>
-      <nav id="navmenu" class="navmenu">
-        <ul>
-          <li><a href="index.html#hero">Home</a></li>
-          <li><a href="index.html#about">About</a></li>
-          <li><a href="index.html#services">Services</a></li>
-          <li><a href="SQLAccounting.php" class="active">SQL Accounting</a></li>
-          <li><a href="index.html#contact">Contact</a></li>
-        </ul>
-        <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
-      </nav>
-      <a class="btn-getstarted flex-md-shrink-0" href="https://wa.link/dvw5fe" target="_blank">
-        <i class="bi bi-whatsapp"></i> Chat on WhatsApp
-      </a>
+  <!-- SQL Accounting Hero Section -->
+<section id="sql-hero" class="hero section" style="background: url('<?php echo 'assets/img/sql-hero-bg.png'; ?>') center center / cover no-repeat;">
+  <div class="container">
+    <div class="row gy-4">
+      <div class="col-lg-12 d-flex flex-column justify-content-center text-center text-white" data-aos="fade-up">
+        <h1>SQL Accounting Solutions by Navbright</h1>
+        <p>
+          As an authorized SQL Accounting dealer in Malaysia, Navbright Technology Group delivers powerful, cloud-based accounting software to simplify financial management for businesses of all sizes. Streamline your invoicing, inventory, and compliance with our tailored SQL Accounting solutions.
+        </p>
+        <a href="https://wa.link/dvw5fe" class="btn-get-started">Get a Free Consultation <i class="bi bi-arrow-right"></i></a>
+      </div>
     </div>
-  </header>
-
-  <main class="main">
-
-<!-- SQL Accounting Hero Section -->
+  </div>
+</section>
+<!-- /SQL Accounting Hero Section -->
+ 
   <div class="container">
     <div class="row gy-4">
       <div class="col-lg-12 d-flex flex-column justify-content-center text-center" data-aos="fade-up">
