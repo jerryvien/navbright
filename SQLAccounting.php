@@ -147,7 +147,7 @@ include 'header.php';
       <div class="col-lg-3 col-md-6">
         <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded">
           <h3 class="text-primary">Public Cloud</h3>
-          <p class="price display-4">RM 79/Montly</p>
+          <p class="price display-3">RM 79/Monthly</p>
           <ul class="list-unstyled mt-3 mb-4">
           <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Company</li>
           <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Concurent User</li>
@@ -168,7 +168,7 @@ include 'header.php';
       <div class="col-lg-3 col-md-6">
         <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded">
           <h3 class="text-primary">Public Cloud + Adv Stock</h3>
-          <p class="price display-4">RM109/Montly</p>
+          <p class="price display-4">RM109/Monthly</p>
           <ul class="list-unstyled mt-3 mb-4">
           <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Company</li>
           <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Concurent User</li>
