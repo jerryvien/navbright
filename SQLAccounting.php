@@ -74,7 +74,7 @@ include 'header.php';
           <div class="col-lg-3 col-md-6">
         <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded">
           <h3 class="text-primary">SQL Single Company</h3>
-          <p class="price display-4">RM1,499 <span class="fs-6">NETT</span></p>
+          <p class="price display-4">RM1,499 </p>
           <ul class="list-unstyled mt-3 mb-4">
           <li><i class="bi bi-check-circle-fill text-success me-2"></i> General Ledger</li>
             <li><i class="bi bi-check-circle-fill text-success me-2"></i> Customer</li>
