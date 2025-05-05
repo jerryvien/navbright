@@ -80,6 +80,7 @@ include 'header.php';
           <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Concurent User</li>
           <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Session Training</li>
           <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1st Year Support</li>
+          <p></p>
           <li><i class="bi bi-check-circle-fill text-success me-2"></i> General Ledger</li>
             <li><i class="bi bi-check-circle-fill text-success me-2"></i> Customer</li>
             <li><i class="bi bi-check-circle-fill text-success me-2"></i> Sales</li>
