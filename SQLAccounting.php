@@ -59,6 +59,110 @@ include 'header.php';
   </header>
 
   <main class="main">
+<!-- Accountant Pricing Section -->
+<section id="accountant-pricing" class="section bg-light py-5">
+  <div class="container" data-aos="fade-up">
+    <div class="section-title text-center mb-5">
+      <h2>Accountant Pricing</h2>
+      <p>Flexible solutions tailored for accounting professionals and firms.</p>
+    </div>
+
+    <div class="row gy-4 justify-content-center">
+      <!-- SQL Accountant Set -->
+      <div class="col-lg-4 col-md-6">
+        <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded">
+          <h3 class="text-primary">SQL Accountant Set</h3>
+          <p class="price display-4">RM1,899</p>
+          <ul class="list-unstyled mt-3 mb-4">
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Support Unlimited Companies</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Add 1 User with RM700 (Get 2 Users)</li>
+          </ul>
+          <a href="https://wa.link/dvw5fe" class="btn btn-primary w-100" target="_blank">I'm Interested</a>
+        </div>
+      </div>
+
+      <!-- Public Cloud -->
+      <div class="col-lg-4 col-md-6">
+        <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded">
+          <h3 class="text-primary">Public Cloud</h3>
+          <p class="price display-4">RM42 <span class="fs-6">/month/company</span></p>
+          <ul class="list-unstyled mt-3 mb-4">
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Support 2 Users</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> RM29/month/company if >10 companies</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> 10 Years Price Guarantee</li>
+          </ul>
+          <a href="https://wa.link/dvw5fe" class="btn btn-primary w-100" target="_blank">I'm Interested</a>
+        </div>
+      </div>
+
+      <!-- Private Cloud -->
+      <div class="col-lg-4 col-md-6">
+        <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded">
+          <h3 class="text-primary">Private Cloud</h3>
+          <p class="price display-4">RM3,000 – RM3,800</p>
+          <ul class="list-unstyled mt-3 mb-4">
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> One-Time Fee</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Unlimited Companies</li>
+          </ul>
+          <a href="https://wa.link/dvw5fe" class="btn btn-primary w-100" target="_blank">I'm Interested</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Accountant Features Section -->
+<section id="accountant-features" class="section py-5">
+  <div class="container" data-aos="fade-up">
+    <div class="section-title text-center mb-5">
+      <h2>Key Features for Accountants</h2>
+      <p>Enhance your accounting practice with these powerful tools.</p>
+    </div>
+
+    <div class="row gy-4">
+      <div class="col-lg-4 col-md-6">
+        <div class="feature-card h-100 p-4 bg-white rounded shadow-sm">
+          <div class="icon mb-3"><i class="bi bi-lightning-charge-fill fs-1 text-primary"></i></div>
+          <h4>Fast Entry</h4>
+          <p>Input multiple invoices quickly in a grid view. Copy-paste rows from Excel to SQL directly.</p>
+        </div>
+      </div>
+
+      <div class="col-lg-4 col-md-6">
+        <div class="feature-card h-100 p-4 bg-white rounded shadow-sm">
+          <div class="icon mb-3"><i class="bi bi-cloud-arrow-up-fill fs-1 text-primary"></i></div>
+          <h4>Cloud Solution Available</h4>
+          <p>Access via browser or app. Hybrid cloud ensures operations even if internet is down.</p>
+        </div>
+      </div>
+
+      <div class="col-lg-4 col-md-6">
+        <div class="feature-card h-100 p-4 bg-white rounded shadow-sm">
+          <div class="icon mb-3"><i class="bi bi-bank fs-1 text-primary"></i></div>
+          <h4>Auto Bank Reconciliation</h4>
+          <p>Automatically match entries from bank statements with your accounting records.</p>
+        </div>
+      </div>
+
+      <div class="col-lg-4 col-md-6">
+        <div class="feature-card h-100 p-4 bg-white rounded shadow-sm">
+          <div class="icon mb-3"><i class="bi bi-file-earmark-text-fill fs-1 text-primary"></i></div>
+          <h4>Paperless Document Storage</h4>
+          <p>Upload and access invoices, receipts, and more online. No more hardcopies!</p>
+        </div>
+      </div>
+
+      <div class="col-lg-4 col-md-6">
+        <div class="feature-card h-100 p-4 bg-white rounded shadow-sm">
+          <div class="icon mb-3"><i class="bi bi-building fs-1 text-primary"></i></div>
+          <h4>Unlimited Companies</h4>
+          <p>Manage an unlimited number of companies in a single system. Ideal for firms.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 
     <!-- SQL Accounting Hero Section -->
     <section id="sql-hero" class="hero section">
