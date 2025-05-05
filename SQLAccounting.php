@@ -47,7 +47,7 @@ include 'header.php';
           <li><a href="index.html#hero">Home</a></li>
           <li><a href="index.html#about">About</a></li>
           <li><a href="index.html#services">Services</a></li>
-          <li><a href="https://wa.link/dvw5fe" class="active">SQL Accounting</a></li>
+          <li><a href="https://www.google.com" class="active">SQL Accounting</a></li>
           <li><a href="index.html#contact">Contact</a></li>
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
