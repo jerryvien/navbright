@@ -61,7 +61,7 @@ include 'header.php';
   <main class="main">
 
 <!-- Hero Section -->
-<section id="hero" class="hero section" style="background: url('https://via.placeholder.com/1920x1080') no-repeat center center; background-size: cover; min-height: 100vh;">
+<section id="hero" class="hero section" style="background: url('assets/img/hero-bg.jpg') no-repeat center center; background-size: cover; min-height: 100vh;">
   <div class="container">
     <div class="row gy-4">
       <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
