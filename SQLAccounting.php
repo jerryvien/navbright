@@ -20,7 +20,7 @@ include 'header.php';
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com" rel="preconnect">
   <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 
   <!-- Vendor CSS Files -->
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -61,9 +61,22 @@ include 'header.php';
   <main class="main">
 
 <!-- Hero Section -->
-<section id="hero" class="hero section" style="min-height: 100vh;">
-  <div class="container d-flex justify-content-center align-items-center" style="min-height: 100vh;">
-    <img src="assets/img/hero-bg.png" class="img-fluid" alt="Hero Image">
+<section id="hero" class="hero section" style="background: url('assets/img/h.png') no-repeat center center; background-size: cover; min-height: 10vh;">
+  <div class="container">
+    <div class="row gy-4">
+      <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
+        <h1 data-aos="fade-up">Navbright Technology Group – Premier IT & Web Solutions</h1>
+        <p data-aos="fade-up" data-aos-delay="100">
+          Navbright Technology Group delivers innovative AI and IT solutions, transforming business processes into agile, efficient systems. We specialize in IT services, consulting, and web development, helping clients enhance productivity, optimize operations, and achieve digital growth.
+        </p>
+        <div class="d-flex flex-column flex-md-row" data-aos="fade-up" data-aos-delay="200">
+          <a href="#about" class="btn-get-started">Discover More <i class="bi bi-arrow-right"></i></a>
+        </div>
+      </div> 
+      <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-out">
+        <img src="assets/img/hero-img.png" class="img-fluid animated" alt="Navbright Technology Group IT & Web Solutions">
+      </div>
+    </div>
   </div>
 </section>
 <!-- /Hero Section -->
