@@ -2793,3 +2793,13 @@ section,
   left: 15px;
   font-size: 14px;
 }
+
+.service-item:hover {
+  background-color: #f0f0f0; /* or your desired hover background */
+  color: #000; /* keep text readable */
+}
+
+.service-item:hover h3,
+.service-item:hover p {
+  color: #000; /* explicitly set text color on hover */
+}
