@@ -2,7 +2,8 @@
 <footer id="footer" class="footer">
   <div class="footer-newsletter">
     <div class="container">
-    <div class="row">
+      <div class="row justify-content-center text-center">
+      <div class="row">
           <div class="col-lg-12 text-center">
             <h3>Simplify Your Financial Management Today</h3>
             <p>
@@ -11,6 +12,7 @@
             <a href="https://wa.link/dvw5fe" class="btn-get-started">Request a Demo <i class="bi bi-arrow-right"></i></a>
           </div>
         </div>
+      </div>
     </div>
   </div>
 
