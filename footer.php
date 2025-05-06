@@ -1,24 +1,18 @@
-<!-- Footer Section -->
-<footer id="footer" class="footer">
-  <div class="footer-newsletter">
-    <div class="container">
-      <div class="row justify-content-center text-center">
-        <div class="col-lg-6">
-          <h4>Join Our Newsletter</h4>
-          <p>Subscribe to receive the latest updates and insights from Navbright Technology!</p>
-          <form action="forms/newsletter.php" method="post" class="php-email-form">
-            <div class="newsletter-form">
-              <input type="email" name="email" placeholder="Your Email" required>
-              <input type="submit" value="Subscribe">
-            </div>
-            <div class="loading">Loading</div>
-            <div class="error-message"></div>
-            <div class="sent-message">Your subscription request has been sent. Thank you!</div>
-          </form>
+    <!-- Call to Action Section -->
+    <section id="cta" class="cta section">
+      <div class="container" data-aos="fade-up">
+        <div class="row">
+          <div class="col-lg-12 text-center">
+            <h3>Simplify Your Financial Management Today</h3>
+            <p>
+              Partner with Navbright Technology Group to leverage SQL Accounting’s powerful features and our expert support. Contact us for a free demo and consultation.
+            </p>
+            <a href="https://wa.link/dvw5fe" class="btn-get-started">Request a Demo <i class="bi bi-arrow-right"></i></a>
+          </div>
         </div>
       </div>
-    </div>
-  </div>
+    </section>
+    <!-- /Call to Action Section -->
 
   <div class="container footer-top">
     <div class="row gy-4">
