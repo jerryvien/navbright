@@ -219,7 +219,7 @@ include 'header.php';
               <div class="portfolio-info">
                 <h3>Real-Time Financial Reporting</h3>
                 <p>Access customizable financial reports and analytics to make informed decisions and track business performance instantly.</p>
-                <a href="https://wa.link/dvw5fe" class="btn-learn-more">Learn More</a>
+                <a href="https://wa.link/dvw5fe" class="btn-learn-more"></a>
               </div>
             </div>
           </div>
@@ -230,7 +230,7 @@ include 'header.php';
               <div class="portfolio-info">
                 <h3>Inventory Management</h3>
                 <p>Effortlessly track stock levels, manage purchase orders, and optimize inventory with integrated tools designed for efficiency.</p>
-                <a href="https://wa.link/dvw5fe" class="btn-learn-more">Learn More</a>
+                <a href="https://wa.link/dvw5fe" class="btn-learn-more"></a>
               </div>
             </div>
           </div>
