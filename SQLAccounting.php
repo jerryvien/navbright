@@ -244,7 +244,7 @@ include 'header.php';
 <section id="sql-accounting-full" class="services section">
   <div class="container section-title" data-aos="fade-up">
     <h2>Why Choose SQL Accounting?</h2>
-    <p>Comprehensive support and powerful features to elevate your business operations</p>
+    <p>Comprehensive Support and Powerful Features to Elevate your Business Operations</p>
   </div>
 
   <div class="container">
@@ -331,7 +331,7 @@ include 'header.php';
 
 
 
-    <!-- Call to Action Section 
+    <!-- Call to Action Section a
     <section id="cta" class="cta section">
       <div class="container" data-aos="fade-up">
         <div class="row">
