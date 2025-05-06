@@ -92,7 +92,7 @@ include 'header.php';
   <div class="container" data-aos="fade-up">
     <div class="section-title text-center mb-5">
       <h2>Accountant Pricing</h2>
-      <p>Flexible solutions tailored for accounting professionals and firms.</p>
+      <p>Flexible Solutions Tailored for Accounting Professionals and Firms.</p>
     </div>
 
     <div class="row gy-4 justify-content-center">
