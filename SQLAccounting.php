@@ -240,61 +240,93 @@ include 'header.php';
     <!-- /SQL Accounting Features Section -->
 
 <!-- SQL Accounting Full Features Section -->
-<!-- Horizontal Scrollable SQL Features Section -->
-<section id="sql-features" class="py-5 bg-light">
-  <div class="container mb-4">
-    <h2 class="text-center">Why Choose SQL Accounting?</h2>
-    <p class="text-center text-muted">Powerful features designed to help your business grow</p>
+<!-- SQL Accounting Full Features Section -->
+<section id="sql-accounting-full" class="services section">
+  <div class="container section-title" data-aos="fade-up">
+    <h2>Why Choose SQL Accounting?</h2>
+    <p>Comprehensive support and powerful features to elevate your business operations</p>
   </div>
 
-  <div class="container-fluid px-4">
-    <div class="d-flex overflow-auto">
+  <div class="container">
+    <div class="row gy-4">
       
-      <!-- Feature Card 1 -->
-      <div class="card me-3 flex-shrink-0" style="width: 18rem;">
-        <img src="https://i.imgur.com/VvzwA2X.png" class="card-img-top" alt="Cloud Accounting">
-        <div class="card-body">
-          <span class="badge bg-success rounded-circle position-absolute top-0 end-0 translate-middle p-2">01</span>
-          <h5 class="card-title">Cloud Accounting</h5>
-          <p class="card-text">Access your accounting data from anywhere, at any time.</p>
+      <!-- Unified Top Features Row -->
+      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+        <div class="service-item position-relative">
+          <i class="bi bi-gear icon"></i>
+          <h3>Software Implementation</h3>
+          <p>Seamless setup and data migration to SQL Accounting, tailored to your needs.</p>
         </div>
       </div>
 
-      <!-- Feature Card 2 -->
-      <div class="card me-3 flex-shrink-0" style="width: 18rem;">
-        <img src="https://i.imgur.com/tD7unRI.png" class="card-img-top" alt="Batch Email Statements">
-        <div class="card-body">
-          <span class="badge bg-success rounded-circle position-absolute top-0 end-0 translate-middle p-2">02</span>
-          <h5 class="card-title">Batch Email Statements</h5>
-          <p class="card-text">Send password-protected customer statements with a single click.</p>
+      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+        <div class="service-item position-relative">
+          <i class="bi bi-code-slash icon"></i>
+          <h3>Customization</h3>
+          <p>Custom modules and integrations to fit your unique workflows.</p>
         </div>
       </div>
 
-      <!-- Feature Card 3 -->
-      <div class="card me-3 flex-shrink-0" style="width: 18rem;">
-        <img src="https://i.imgur.com/f8cf8f6.png" class="card-img-top" alt="Advanced Security Locks">
-        <div class="card-body">
-          <span class="badge bg-success rounded-circle position-absolute top-0 end-0 translate-middle p-2">03</span>
-          <h5 class="card-title">Advanced Security Locks</h5>
-          <p class="card-text">Set fine-grained access controls for secure user management.</p>
+      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+        <div class="service-item position-relative">
+          <i class="bi bi-headset icon"></i>
+          <h3>Training & Support</h3>
+          <p>Personalized training and 24/7 support to ensure full team adoption.</p>
         </div>
       </div>
 
-      <!-- Feature Card 4 -->
-      <div class="card me-3 flex-shrink-0" style="width: 18rem;">
-        <img src="https://i.imgur.com/ZiOy3on.png" class="card-img-top" alt="CTOS Report">
-        <div class="card-body">
-          <span class="badge bg-success rounded-circle position-absolute top-0 end-0 translate-middle p-2">04</span>
-          <h5 class="card-title">CTOS Report</h5>
-          <p class="card-text">Instant credit reports for better customer and vendor assessment.</p>
+      <!-- Bottom Features Row -->
+      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
+        <div class="service-item position-relative">
+          <i class="bi bi-cloud-arrow-down icon"></i>
+          <h3>Cloud Accounting</h3>
+          <p>Access your accounting data anytime, anywhere for improved efficiency.</p>
         </div>
       </div>
 
-      <!-- Add more cards here if needed -->
+      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
+        <div class="service-item position-relative">
+          <i class="bi bi-envelope icon"></i>
+          <h3>Batch Emails Statements</h3>
+          <p>Email statements with password encryption to all customers in one click.</p>
+        </div>
+      </div>
 
+      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
+        <div class="service-item position-relative">
+          <i class="bi bi-buildings icon"></i>
+          <h3>Fits All Companies Size</h3>
+          <p>Suitable for startups to large corporations across industries.</p>
+        </div>
+      </div>
+
+      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="700">
+        <div class="service-item position-relative">
+          <i class="bi bi-graph-up icon"></i>
+          <h3>CTOS Report</h3>
+          <p>Gain insights into your customers' and suppliers' financial standing.</p>
+        </div>
+      </div>
+
+      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="800">
+        <div class="service-item position-relative">
+          <i class="bi bi-shield-lock icon"></i>
+          <h3>Advanced Security Locks</h3>
+          <p>Control access with detailed permission settings and document visibility restrictions.</p>
+        </div>
+      </div>
+
+      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="900">
+        <div class="service-item position-relative">
+          <i class="bi bi-bar-chart-line icon"></i>
+          <h3>Intelligence Reporting</h3>
+          <p>Generate advanced reports to analyze profits, commissions, and customer performance.</p>
+        </div>
+      </div>
     </div>
   </div>
 </section>
+<!-- /SQL Accounting Full Features Section -->
 
 
 
