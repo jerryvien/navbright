@@ -101,7 +101,7 @@ include 'header.php';
           <div class="col-lg-3 col-md-6">
         <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded">
           <h3 class="text-primary">SQL Single Company</h3>
-          <p class="price display-5">RM1,499 </p>
+          <p class="price display-7">RM1,499 </p>
           <ul class="list-unstyled mt-3 mb-4">
           <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Company</li>
           <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Concurent User</li>
@@ -122,7 +122,8 @@ include 'header.php';
       <div class="col-lg-3 col-md-6">
         <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded">
           <h3 class="text-primary">SQL Accountant Set</h3>
-          <p class="price display-7">RM1,899</p></p>
+          <p></p>
+          <p class="price display-7">RM1,899</p>
           <ul class="list-unstyled mt-3 mb-4">
           <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Company</li>
           <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Concurent User</li>
