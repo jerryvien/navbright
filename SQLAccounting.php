@@ -239,42 +239,92 @@ include 'header.php';
     </section>
     <!-- /SQL Accounting Features Section -->
 
-    <!-- SQL Accounting Services Section -->
-    <section id="sql-services" class="services section">
-      <div class="container section-title" data-aos="fade-up">
-        <h2>Our SQL Accounting Services</h2>
-        <p>Comprehensive support to maximize your SQL Accounting experience</p>
-      </div>
-      <div class="container">
-        <div class="row gy-4">
-          <!-- Service 1: Software Implementation -->
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
-            <div class="service-item item-cyan position-relative">
-              <i class="bi bi-gear icon"></i>
-              <h3>Software Implementation</h3>
-              <p>Our experts ensure seamless setup and data migration to SQL Accounting, tailored to your business needs.</p>
-            </div>
-          </div>
-          <!-- Service 2: Customization -->
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
-            <div class="service-item item-orange position-relative">
-              <i class="bi bi-code-slash icon"></i>
-              <h3>Customization</h3>
-              <p>Tailor SQL Accounting with custom modules and integrations to fit your unique workflows.</p>
-            </div>
-          </div>
-          <!-- Service 3: Training & Support -->
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
-            <div class="service-item item-teal position-relative">
-              <i class="bi bi-headset icon"></i>
-              <h3>Training & Support</h3>
-              <p>Receive personalized training and 24/7 support to ensure your team masters SQL Accounting.</p>
-            </div>
-          </div>
+    <!-- SQL Accounting Full Features Section -->
+<section id="sql-accounting-full" class="services section">
+  <div class="container section-title" data-aos="fade-up">
+    <h2>Why Choose SQL Accounting?</h2>
+    <p>Comprehensive support and powerful features to elevate your business operations</p>
+  </div>
+
+  <div class="container">
+    <div class="row gy-4">
+      <!-- Top Services Row -->
+      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+        <div class="service-item item-cyan position-relative">
+          <i class="bi bi-gear icon"></i>
+          <h3>Software Implementation</h3>
+          <p>Seamless setup and data migration to SQL Accounting, tailored to your needs.</p>
         </div>
       </div>
-    </section>
-    <!-- /SQL Accounting Services Section -->
+
+      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+        <div class="service-item item-orange position-relative">
+          <i class="bi bi-code-slash icon"></i>
+          <h3>Customization</h3>
+          <p>Custom modules and integrations to fit your unique workflows.</p>
+        </div>
+      </div>
+
+      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+        <div class="service-item item-teal position-relative">
+          <i class="bi bi-headset icon"></i>
+          <h3>Training & Support</h3>
+          <p>Personalized training and 24/7 support to ensure full team adoption.</p>
+        </div>
+      </div>
+
+      <!-- Bottom Features Row -->
+      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
+        <div class="service-item position-relative">
+          <i class="bi bi-cloud-arrow-down icon"></i>
+          <h3>Cloud Accounting</h3>
+          <p>Access your accounting data anytime, anywhere for improved efficiency.</p>
+        </div>
+      </div>
+
+      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
+        <div class="service-item position-relative">
+          <i class="bi bi-envelope icon"></i>
+          <h3>Batch Emails Statements</h3>
+          <p>Email statements with password encryption to all customers in one click.</p>
+        </div>
+      </div>
+
+      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
+        <div class="service-item position-relative">
+          <i class="bi bi-buildings icon"></i>
+          <h3>Fits All Companies Size</h3>
+          <p>Suitable for startups to large corporations across industries.</p>
+        </div>
+      </div>
+
+      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="700">
+        <div class="service-item position-relative">
+          <i class="bi bi-graph-up icon"></i>
+          <h3>CTOS Report</h3>
+          <p>Gain insights into your customers' and suppliers' financial standing.</p>
+        </div>
+      </div>
+
+      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="800">
+        <div class="service-item position-relative">
+          <i class="bi bi-shield-lock icon"></i>
+          <h3>Advanced Security Locks</h3>
+          <p>Control access with detailed permission settings and document visibility restrictions.</p>
+        </div>
+      </div>
+
+      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="900">
+        <div class="service-item position-relative">
+          <i class="bi bi-bar-chart-line icon"></i>
+          <h3>Intelligence Reporting</h3>
+          <p>Generate advanced reports to analyze profits, commissions, and customer performance.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /SQL Accounting Full Features Section -->
 
     <!-- Call to Action Section -->
     <section id="cta" class="cta section">
