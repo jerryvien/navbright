@@ -197,7 +197,7 @@ include 'header.php';
     <section id="sql-features" class="portfolio section">
       <div class="container section-title" data-aos="fade-up">
         <h2>Why Choose SQL Accounting?</h2>
-        <p>Discover the robust features that make SQL Accounting the preferred choice for Malaysian businesses</p>
+        <p>Discover the Robust Features That Make SQL Accounting the Preferred Choice for Malaysian Businesses</p>
       </div>
       <div class="container">
         <div class="row gy-4">
