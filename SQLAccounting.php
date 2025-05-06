@@ -239,92 +239,66 @@ include 'header.php';
     </section>
     <!-- /SQL Accounting Features Section -->
 
-    <!-- SQL Accounting Full Features Section -->
-<section id="sql-accounting-full" class="services section">
-  <div class="container section-title" data-aos="fade-up">
-    <h2>Why Choose SQL Accounting?</h2>
-    <p>Comprehensive support and powerful features to elevate your business operations</p>
-  </div>
-
+    <!-- Scrollable Services Section -->
+<section class="py-5 bg-light">
   <div class="container">
-    <div class="row gy-4">
-      <!-- Top Services Row -->
-      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
-        <div class="service-item item-cyan position-relative">
-          <i class="bi bi-gear icon"></i>
-          <h3>Software Implementation</h3>
-          <p>Seamless setup and data migration to SQL Accounting, tailored to your needs.</p>
+    <h2 class="mb-4 text-center">Our SQL Services</h2>
+    <div class="scroll-container d-flex flex-nowrap overflow-auto pb-3">
+      
+      <!-- Card 1 -->
+      <div class="card service-card me-3 flex-shrink-0">
+        <img src="https://i.imgur.com/HlA4VKP.png" class="card-img-top" alt="Software Implementation">
+        <div class="card-body">
+          <div class="circle-badge">01</div>
+          <h5 class="card-title mt-3">Software Implementation</h5>
+          <p class="card-text">Seamless setup and migration to SQL Accounting.</p>
         </div>
       </div>
 
-      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
-        <div class="service-item item-orange position-relative">
-          <i class="bi bi-code-slash icon"></i>
-          <h3>Customization</h3>
-          <p>Custom modules and integrations to fit your unique workflows.</p>
+      <!-- Card 2 -->
+      <div class="card service-card me-3 flex-shrink-0">
+        <img src="https://i.imgur.com/fNDBK91.png" class="card-img-top" alt="Customization">
+        <div class="card-body">
+          <div class="circle-badge">02</div>
+          <h5 class="card-title mt-3">Customization</h5>
+          <p class="card-text">Tailor SQL Accounting to your unique workflow.</p>
         </div>
       </div>
 
-      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
-        <div class="service-item item-teal position-relative">
-          <i class="bi bi-headset icon"></i>
-          <h3>Training & Support</h3>
-          <p>Personalized training and 24/7 support to ensure full team adoption.</p>
+      <!-- Card 3 -->
+      <div class="card service-card me-3 flex-shrink-0">
+        <img src="https://i.imgur.com/RH4LhzG.png" class="card-img-top" alt="Training & Support">
+        <div class="card-body">
+          <div class="circle-badge">03</div>
+          <h5 class="card-title mt-3">Training & Support</h5>
+          <p class="card-text">Expert guidance and support for your team.</p>
         </div>
       </div>
 
-      <!-- Bottom Features Row -->
-      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
-        <div class="service-item position-relative">
-          <i class="bi bi-cloud-arrow-down icon"></i>
-          <h3>Cloud Accounting</h3>
-          <p>Access your accounting data anytime, anywhere for improved efficiency.</p>
+      <!-- Card 4 -->
+      <div class="card service-card me-3 flex-shrink-0">
+        <img src="https://i.imgur.com/nq4HcO3.png" class="card-img-top" alt="Cloud Accounting">
+        <div class="card-body">
+          <div class="circle-badge">04</div>
+          <h5 class="card-title mt-3">Cloud Accounting</h5>
+          <p class="card-text">Access your data securely anytime, anywhere.</p>
         </div>
       </div>
 
-      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
-        <div class="service-item position-relative">
-          <i class="bi bi-envelope icon"></i>
-          <h3>Batch Emails Statements</h3>
-          <p>Email statements with password encryption to all customers in one click.</p>
+      <!-- Card 5 -->
+      <div class="card service-card me-3 flex-shrink-0">
+        <img src="https://i.imgur.com/dAklUlU.png" class="card-img-top" alt="Batch Email Statements">
+        <div class="card-body">
+          <div class="circle-badge">05</div>
+          <h5 class="card-title mt-3">Batch Email Statements</h5>
+          <p class="card-text">Send secure statements to all customers in one go.</p>
         </div>
       </div>
 
-      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
-        <div class="service-item position-relative">
-          <i class="bi bi-buildings icon"></i>
-          <h3>Fits All Companies Size</h3>
-          <p>Suitable for startups to large corporations across industries.</p>
-        </div>
-      </div>
-
-      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="700">
-        <div class="service-item position-relative">
-          <i class="bi bi-graph-up icon"></i>
-          <h3>CTOS Report</h3>
-          <p>Gain insights into your customers' and suppliers' financial standing.</p>
-        </div>
-      </div>
-
-      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="800">
-        <div class="service-item position-relative">
-          <i class="bi bi-shield-lock icon"></i>
-          <h3>Advanced Security Locks</h3>
-          <p>Control access with detailed permission settings and document visibility restrictions.</p>
-        </div>
-      </div>
-
-      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="900">
-        <div class="service-item position-relative">
-          <i class="bi bi-bar-chart-line icon"></i>
-          <h3>Intelligence Reporting</h3>
-          <p>Generate advanced reports to analyze profits, commissions, and customer performance.</p>
-        </div>
-      </div>
     </div>
   </div>
 </section>
-<!-- /SQL Accounting Full Features Section -->
+
 
     <!-- Call to Action Section -->
     <section id="cta" class="cta section">
