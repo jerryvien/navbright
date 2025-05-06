@@ -74,9 +74,7 @@ include 'header.php';
           <a href="#about" class="btn-get-started">Discover More <i class="bi bi-arrow-right"></i></a>
         </div>
       </div> 
-      <p></p>
-      <p></p>
-      <p></p>
+    
       <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-out">
         <img src="assets/img/sql-accounting-logo.png" class="img-fluid animated" alt="Navbright Technology Group IT & Web Solutions">
       </div>
@@ -107,7 +105,7 @@ include 'header.php';
           <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Concurent User</li>
           <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Session Training</li>
           <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1st Year Support</li>
-          <p></p>
+          
           <li><i class="bi bi-check-circle-fill text-success me-2"></i> General Ledger</li>
             <li><i class="bi bi-check-circle-fill text-success me-2"></i> Customer</li>
             <li><i class="bi bi-check-circle-fill text-success me-2"></i> Sales</li>
@@ -122,14 +120,14 @@ include 'header.php';
       <div class="col-lg-3 col-md-6">
         <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded">
           <h3 class="text-primary">SQL Accountant Set</h3>
-          <p></p>
+        
           <p class="price display-7">RM1,899</p>
           <ul class="list-unstyled mt-3 mb-4">
           <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Company</li>
           <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Concurent User</li>
           <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Session Training</li>
           <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1st Year Support</li>
-          <p></p>
+  
             <li><i class="bi bi-check-circle-fill text-success me-2"></i> General Ledger</li>
             <li><i class="bi bi-check-circle-fill text-success me-2"></i> Customer</li>
             <li><i class="bi bi-check-circle-fill text-success me-2"></i> Sales</li>
