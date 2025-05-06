@@ -2803,3 +2803,25 @@ section,
 .service-item:hover p {
   color: #000; /* explicitly set text color on hover */
 }
+
+.pricing-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+
+.pricing-card .price {
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.pricing-card ul {
+  flex-grow: 1;
+  margin-bottom: 20px;
+}
+
+.pricing-card .btn {
+  margin-top: auto;
+}
