@@ -248,30 +248,45 @@ include 'header.php';
 
   <div class="container">
     <div class="row gy-4">
-      <!-- Top Services Row -->
-      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
-        <div class="service-item item-cyan position-relative">
-          <i class="bi bi-gear icon"></i>
-          <h3>Software Implementation</h3>
-          <p>Seamless setup and data migration to SQL Accounting, tailored to your needs.</p>
-        </div>
-      </div>
+    <div class="row">
 
-      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
-        <div class="service-item item-orange position-relative">
-          <i class="bi bi-code-slash icon"></i>
-          <h3>Customization</h3>
-          <p>Custom modules and integrations to fit your unique workflows.</p>
-        </div>
-      </div>
+<!-- Card 1 -->
+<div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="100">
+  <div class="card service-card position-relative">
+    <img src="https://i.imgur.com/HlA4VKP.png" class="card-img-top" alt="Software Implementation">
+    <div class="card-body">
+      <div class="circle-badge">01</div>
+      <h5 class="card-title mt-3">Software Implementation</h5>
+      <p class="card-text">Seamless setup and data migration to SQL Accounting, tailored to your needs.</p>
+    </div>
+  </div>
+</div>
 
-      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
-        <div class="service-item item-teal position-relative">
-          <i class="bi bi-headset icon"></i>
-          <h3>Training & Support</h3>
-          <p>Personalized training and 24/7 support to ensure full team adoption.</p>
-        </div>
-      </div>
+<!-- Card 2 -->
+<div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="200">
+  <div class="card service-card position-relative">
+    <img src="https://i.imgur.com/fNDBK91.png" class="card-img-top" alt="Customization">
+    <div class="card-body">
+      <div class="circle-badge">02</div>
+      <h5 class="card-title mt-3">Customization</h5>
+      <p class="card-text">Custom modules and integrations to fit your unique workflows.</p>
+    </div>
+  </div>
+</div>
+
+<!-- Card 3 -->
+<div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="300">
+  <div class="card service-card position-relative">
+    <img src="https://i.imgur.com/RH4LhzG.png" class="card-img-top" alt="Training & Support">
+    <div class="card-body">
+      <div class="circle-badge">03</div>
+      <h5 class="card-title mt-3">Training & Support</h5>
+      <p class="card-text">Personalized training and 24/7 support to ensure full team adoption.</p>
+    </div>
+  </div>
+</div>
+
+</div>
 
       <!-- Bottom Features Row -->
       <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
