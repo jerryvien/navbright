@@ -91,7 +91,7 @@ include 'header.php';
 <section id="accountant-pricing" class="section bg-light py-5">
   <div class="container" data-aos="fade-up">
     <div class="section-title text-center mb-5">
-      <h2>Accountant Pricing</h2>
+      <h2>Pricing</h2>
       <p>Flexible Solutions Tailored for Accounting Professionals and Firms.</p>
     </div>
 
