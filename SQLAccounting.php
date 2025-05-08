@@ -148,6 +148,8 @@ include 'header.php';
     <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded d-flex flex-column">
           <h3 class="text-primary">Public Cloud</h3>
           <p></p>
+          <p></p>
+          <p></p>
           <p class="price display-7">RM79/Monthly</p>
           <p></p>
           <p></p>
