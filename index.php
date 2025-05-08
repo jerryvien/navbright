@@ -196,7 +196,7 @@
   </section>
 <!-- /Features Section -->
 
-<!-- Alt Features Section -->
+<!-- Alt Features Section --><!-- 
   <section id="alt-features" class="alt-features section">
     <div class="container">
       <div class="row gy-5">
