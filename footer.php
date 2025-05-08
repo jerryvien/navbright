@@ -7,7 +7,7 @@
           <div class="col-lg-12 text-center">
             <h3>Simplify Your Financial Management Today</h3>
             <p>
-              Partner with Navbright Technology Group to leverage SQL Accounting’s powerful features and our expert support. Contact us for a free demo and consultation.
+              Partner with Navbright Technology GroupGroup to leverage SQL Accounting’s powerful features and our expert support. Contact us for a free demo and consultation.
             </p>
             <a href="https://wa.link/dvw5fe" class="btn-get-started">Request a Demo <i class="bi bi-arrow-right"></i></a>
           </div>
@@ -57,7 +57,7 @@
       <!-- Social Media -->
       <div class="col-lg-4 col-md-12">
         <h4>Follow Us</h4>
-        <p>Stay connected with Navbright Technology for the latest updates and insights.</p>
+        <p>Stay connected with Navbright Technology Groupfor the latest updates and insights.</p>
         <div class="social-links d-flex">
           <a href="#"><i class="bi bi-twitter-x"></i></a>
           <a href="#"><i class="bi bi-facebook"></i></a>
