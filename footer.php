@@ -47,10 +47,10 @@
       <div class="col-lg-2 col-md-3 footer-links">
         <h4>Our Solutions</h4>
         <ul>
-          <li><i class="bi bi-chevron-right"></i> <a href="#">IT Services</a></li>
-          <li><i class="bi bi-chevron-right"></i> <a href="#">Web Development</a></li>
-          <li><i class="bi bi-chevron-right"></i> <a href="#">IT Consulting</a></li>
-          <li><i class="bi bi-chevron-right"></i> <a href="#">Digital Transformation</a></li>
+          <li><i class="bi bi-chevron-right"></i> <a href="#services">IT Services</a></li>
+          <li><i class="bi bi-chevron-right"></i> <a href="#services">Web Development</a></li>
+          <li><i class="bi bi-chevron-right"></i> <a href="#services">IT Consulting</a></li>
+          <li><i class="bi bi-chevron-right"></i> <a href="#services">Digital Transformation</a></li>
         </ul>
       </div>
 
