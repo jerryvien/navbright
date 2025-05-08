@@ -62,7 +62,7 @@ include 'header.php';
 
 <!-- Hero Section -->
 <section id="hero" class="hero section" style="background: url('assets/img/sql-accounting-logso.png') no-repeat center center; background-size: cover; min-height: 10vh;">
-  <div class="container">
+<div class="container" style="margin-top: 120px;">
     <div class="row gy-4">
       <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
      
