@@ -125,7 +125,7 @@ include 'header.php';
           <p></p>
           <p></p>
           <p class="price display-7">RM1,899</p>
-          <p></p>
+        
           <p></p>
           <p></p>
           <ul class="list-unstyled mt-3 mb-4">
@@ -151,7 +151,7 @@ include 'header.php';
           <p></p>
           
           <p class="price display-7">RM79/Monthly</p>
-          <p></p>
+      
           <p></p>
           <p></p>
           <ul class="list-unstyled mt-3 mb-4">
