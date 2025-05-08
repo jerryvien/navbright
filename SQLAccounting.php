@@ -146,6 +146,9 @@ include 'header.php';
     <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded d-flex flex-column">
           <h3 class="text-primary">Public Cloud</h3>
           <p class="price display-7">RM79/Monthly</p>
+          <p></p>
+          <p></p>
+          <p></p>
           <ul class="list-unstyled mt-3 mb-4">
             <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Company</li>
             <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Concurent User</li>
