@@ -71,7 +71,7 @@ include 'header.php';
         At Navbright Technology Group, we are committed to helping businesses thrive through smart technology solutions. That’s why we’ve partnered with SQL Accounting, Malaysia’s #1 accounting software, to bring you a powerful and reliable financial management system.
         </p>
         <div class="d-flex flex-column flex-md-row" data-aos="fade-up" data-aos-delay="200">
-          <a href="#accountant-pricing" class="btn-get-started"><P>Price <i class="bi bi-arrow-right"></i></a>
+          <a href="#accountant-pricing" class="btn-get-started">Price <i class="bi bi-arrow-right"></i></a>
         </div>
       </div> 
     
