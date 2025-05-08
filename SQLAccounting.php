@@ -122,6 +122,8 @@ include 'header.php';
       <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded d-flex flex-column">
 
           <h3 class="text-primary">SQL Accountant Set</h3>
+          <p></p>
+          <p></p>
           <p class="price display-7">RM1,899</p>
           <p></p>
           <p></p>
