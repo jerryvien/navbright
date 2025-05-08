@@ -125,6 +125,7 @@ include 'header.php';
           <p class="price display-7">RM1,899</p>
           <p></p>
           <p></p>
+          <p></p>
           <ul class="list-unstyled mt-3 mb-4">
             <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Company</li>
             <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Concurent User</li>
