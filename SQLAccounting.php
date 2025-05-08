@@ -9,8 +9,8 @@ include 'header.php';
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>SQL Accounting | Navbright Technology</title>
-  <meta name="description" content="Navbright Technology offers cloud-based SQL Accounting software in Malaysia to streamline invoicing, inventory, and financial reporting.">
+  <title>SQL Accounting | Navbright Technology Group</title>
+  <meta name="description" content="Navbright Technology Group offers cloud-based SQL Accounting software in Malaysia to streamline invoicing, inventory, and financial reporting.">
   <!-- Removed deprecated meta keywords tag -->
 
   <!-- Favicons -->
@@ -39,7 +39,7 @@ include 'header.php';
   <header id="header" class="header d-flex align-items-center fixed-top">
     <div class="container-fluid container-xl position-relative d-flex align-items-center">
       <a href="index.html" class="logo d-flex align-items-center me-auto">
-        <img src="assets/img/logo.png" alt="Navbright Technology Logo">
+        <img src="assets/img/logo.png" alt="Navbright Technology Group Logo">
         <h1 class="sitename">Navbright Technology Group</h1>
       </a>
       <nav id="navmenu" class="navmenu">
