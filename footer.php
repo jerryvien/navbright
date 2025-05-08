@@ -95,3 +95,7 @@
 <script src="assets/js/main.js"></script>
 </body>
 </html>
+
+<a class="btn-getstarted" href="https://api.whatsapp.com/send?phone=60179726386&text=Hello,%20I%20would%20like%20to%20inquire%20about%20your%20services." target="_blank">
+        <i class="fab fa-whatsapp"></i> WhatsApp Us
+      </a>
