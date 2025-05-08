@@ -2841,3 +2841,30 @@ section,
   display: flex;
   align-items: center;
 }
+
+.pricing-card h3 {
+  min-height: 60px; /* Ensures consistent title height */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.pricing-card .price {
+  font-size: 1.5rem;
+  font-weight: bold;
+  min-height: 48px; /* Align price height */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.pricing-card ul {
+  flex-grow: 1;
+}
+
+.pricing-card .btn {
+  margin-top: auto;
+}

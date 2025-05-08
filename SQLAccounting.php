@@ -97,7 +97,8 @@ include 'header.php';
 
       <!-- SQL Single Company -->
       <div class="col-lg-3 col-md-6">
-        <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded d-flex flex-column">
+      <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded d-flex flex-column">
+
           <h3 class="text-primary">SQL Single Company</h3>
           <p class="price display-7">RM1,499</p>
           <ul class="list-unstyled mt-3 mb-4">
@@ -117,7 +118,8 @@ include 'header.php';
 
       <!-- SQL Accountant Set -->
       <div class="col-lg-3 col-md-6">
-        <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded d-flex flex-column">
+      <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded d-flex flex-column">
+
           <h3 class="text-primary">SQL Accountant Set</h3>
           <p class="price display-7">RM1,899</p>
           <ul class="list-unstyled mt-3 mb-4">
@@ -137,7 +139,7 @@ include 'header.php';
 
       <!-- Public Cloud -->
       <div class="col-lg-3 col-md-6">
-        <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded d-flex flex-column">
+    <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded d-flex flex-column">
           <h3 class="text-primary">Public Cloud</h3>
           <p class="price display-7">RM79/Monthly</p>
           <ul class="list-unstyled mt-3 mb-4">
@@ -157,7 +159,7 @@ include 'header.php';
 
       <!-- Public Cloud + Adv Stock -->
       <div class="col-lg-3 col-md-6">
-        <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded d-flex flex-column">
+      <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded d-flex flex-column">
           <h3 class="text-primary">Public Cloud + Adv Stock</h3>
           <p class="price display-7">RM109/Monthly</p>
           <ul class="list-unstyled mt-3 mb-4">
