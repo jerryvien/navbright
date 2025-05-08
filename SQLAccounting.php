@@ -95,101 +95,92 @@ include 'header.php';
 
     <div class="row gy-4 justify-content-center">
 
-          <!-- single company  -->
-          <div class="col-lg-3 col-md-6">
-        <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded">
-          <h3 class="text-primary">SQL Single Company</h3>
-          <p class="price display-7">RM1,499 </p>
-          <ul class="list-unstyled mt-3 mb-4">
-          <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Company</li>
-          <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Concurent User</li>
-          <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Session Training</li>
-          <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1st Year Support</li>
-          
-          <li><i class="bi bi-check-circle-fill text-success me-2"></i> General Ledger</li>
-            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Customer</li>
-            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Sales</li>
-            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Purchase</li>
-            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Basic Stock</li>
-          </ul>
-          <a href="https://wa.link/dvw5fe" class="btn btn-primary w-100" target="_blank">I'm Interested</a>
-        </div>
-      </div>
-
-      <!-- SQL Accountant Set -->
+      <!-- SQL Single Company -->
       <div class="col-lg-3 col-md-6">
-        <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded">
-          <h3 class="text-primary">SQL Accountant Set</h3>
-        
-          <p class="price display-7">RM1,899</p>
+        <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded d-flex flex-column">
+          <h3 class="text-primary">SQL Single Company</h3>
+          <p class="price display-7">RM1,499</p>
           <ul class="list-unstyled mt-3 mb-4">
-          <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Company</li>
-          <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Concurent User</li>
-          <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Session Training</li>
-          <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1st Year Support</li>
-  
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Company</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Concurent User</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Session Training</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1st Year Support</li>
             <li><i class="bi bi-check-circle-fill text-success me-2"></i> General Ledger</li>
             <li><i class="bi bi-check-circle-fill text-success me-2"></i> Customer</li>
             <li><i class="bi bi-check-circle-fill text-success me-2"></i> Sales</li>
             <li><i class="bi bi-check-circle-fill text-success me-2"></i> Purchase</li>
             <li><i class="bi bi-check-circle-fill text-success me-2"></i> Basic Stock</li>
-  
-            
           </ul>
-          <a href="https://wa.link/dvw5fe" class="btn btn-primary w-100" target="_blank">I'm Interested</a>
+          <a href="https://wa.link/dvw5fe" class="btn btn-primary w-100 mt-auto" target="_blank">I'm Interested</a>
         </div>
       </div>
 
-
+      <!-- SQL Accountant Set -->
+      <div class="col-lg-3 col-md-6">
+        <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded d-flex flex-column">
+          <h3 class="text-primary">SQL Accountant Set</h3>
+          <p class="price display-7">RM1,899</p>
+          <ul class="list-unstyled mt-3 mb-4">
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Company</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Concurent User</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Session Training</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1st Year Support</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> General Ledger</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Customer</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Sales</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Purchase</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Basic Stock</li>
+          </ul>
+          <a href="https://wa.link/dvw5fe" class="btn btn-primary w-100 mt-auto" target="_blank">I'm Interested</a>
+        </div>
+      </div>
 
       <!-- Public Cloud -->
       <div class="col-lg-3 col-md-6">
-        <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded">
+        <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded d-flex flex-column">
           <h3 class="text-primary">Public Cloud</h3>
-          <p class="price display-7">RM 79/Monthly</p>
+          <p class="price display-7">RM79/Monthly</p>
           <ul class="list-unstyled mt-3 mb-4">
-          <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Company</li>
-          <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Concurent User</li>
-          <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Session Training</li>
-          <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1st Year Support</li>
-          <p></p>
-          <li><i class="bi bi-check-circle-fill text-success me-2"></i> General Ledger</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Company</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Concurent User</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Session Training</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1st Year Support</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> General Ledger</li>
             <li><i class="bi bi-check-circle-fill text-success me-2"></i> Customer</li>
             <li><i class="bi bi-check-circle-fill text-success me-2"></i> Sales</li>
             <li><i class="bi bi-check-circle-fill text-success me-2"></i> Purchase</li>
             <li><i class="bi bi-check-circle-fill text-success me-2"></i> Basic Stock</li>
           </ul>
-          <a href="https://wa.link/dvw5fe" class="btn btn-primary w-100" target="_blank">I'm Interested</a>
+          <a href="https://wa.link/dvw5fe" class="btn btn-primary w-100 mt-auto" target="_blank">I'm Interested</a>
         </div>
       </div>
 
-      <!-- New Product (Example) -->
+      <!-- Public Cloud + Adv Stock -->
       <div class="col-lg-3 col-md-6">
-        <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded">
+        <div class="pricing-card h-100 shadow-sm p-4 bg-white rounded d-flex flex-column">
           <h3 class="text-primary">Public Cloud + Adv Stock</h3>
           <p class="price display-7">RM109/Monthly</p>
           <ul class="list-unstyled mt-3 mb-4">
-          <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Company</li>
-          <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Concurent User</li>
-          <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Session Training</li>
-          <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1st Year Support</li>
-          <p></p>
-          <li><i class="bi bi-check-circle-fill text-success me-2"></i> General Ledger</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Company</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Concurent User</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1 Session Training</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> 1st Year Support</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> General Ledger</li>
             <li><i class="bi bi-check-circle-fill text-success me-2"></i> Customer</li>
             <li><i class="bi bi-check-circle-fill text-success me-2"></i> Sales</li>
             <li><i class="bi bi-check-circle-fill text-success me-2"></i> Purchase</li>
             <li><i class="bi bi-check-circle-fill text-success me-2"></i> Basic Stock</li>
-          <li><i class="bi bi-check-circle-fill text-success me-2"></i> Advance Stock</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i> Advance Stock</li>
             <li><i class="bi bi-check-circle-fill text-success me-2"></i> Advance Reports</li>
             <li><i class="bi bi-check-circle-fill text-success me-2"></i> Pro-Package</li>
           </ul>
-          <a href="https://wa.link/dvw5fe" class="btn btn-primary w-100" target="_blank">I'm Interested</a>
+          <a href="https://wa.link/dvw5fe" class="btn btn-primary w-100 mt-auto" target="_blank">I'm Interested</a>
         </div>
       </div>
+
     </div>
   </div>
 </section>
-
 
     <!-- SQL Accounting Features Section -->
     <section id="sql-features" class="portfolio section">
