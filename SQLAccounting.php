@@ -66,7 +66,7 @@ include 'header.php';
     <div class="row gy-4">
       <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
      
-        <h1 data-aos="fade-up">Navbright Technology Group X SQL Accounting</h1>
+        <h1 data-aos="fade-up">SQL Accounting</h1>
         <p data-aos="fade-up" data-aos-delay="100">
         At Navbright Technology Group, we are committed to helping businesses thrive through smart technology solutions. That’s why we’ve partnered with SQL Accounting, Malaysia’s #1 accounting software, to bring you a powerful and reliable financial management system.
         </p>
