@@ -36,6 +36,9 @@
   <!-- Favicons -->
   <link href="assets/img/logo.png" rel="icon">
   <link href="assets/img/logo.png" rel="apple-touch-icon">
+
+  <link rel="preload" as="image" href="assets/img/hero-img.webp" type="image/webp">
+
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com" rel="preconnect">
   <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>

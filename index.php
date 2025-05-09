@@ -16,7 +16,10 @@
         </div>
       </div> 
       <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-out">
-        <img src="assets/img/hero-img.png" class="img-fluid animated" alt="Navbright Technology Group IT & Web Solutions">
+        <picture>
+          <source srcset="assets/img/hero-img.webp" type="image/webp">
+          <img src="assets/img/hero-img.png" alt="Navbright Technology Group IT & Web Solutions" class="img-fluid animated">
+        </picture>
       </div>
     </div>
   </div>
