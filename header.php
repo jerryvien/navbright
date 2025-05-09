@@ -9,7 +9,7 @@
   <meta name="keywords" content="IT services, Web Development, IT Consulting, Web Programming, Navbright Technology, Corporate IT, Digital Solutions">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/logo.png" rel="icon">
   <link href="assets/img/logo.png" rel="apple-touch-icon">
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com" rel="preconnect">
