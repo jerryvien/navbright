@@ -4,9 +4,34 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Navbright Technology Group - Innovative IT & Web Solutions</title>
-  <meta name="description" content="Navbright Technology offers innovative IT services, web development, IT consulting, and custom web programming solutions. Established in 2015 and led by industry expert Mr. Shawn Tee, we deliver digital transformation and corporate IT excellence.">
+  <title>Navbright Technology Group Sdn Bhd – IT Solutions & Digital Consulting</title>
+  <meta name="description" content="Navbright Technology Group Sdn Bhd is a professional IT service provider offering digital transformation consulting, system integration, managed services, and cloud infrastructure solutions tailored for businesses in Malaysia and beyond.">
+  <meta name="author" content="Navbright Technology Group Sdn Bhd">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="index, follow">
+  <meta name="googlebot" content="index, follow">
+  <meta name="google" content="notranslate">
+  <meta name="revisit-after" content="1 days">
+  <meta name="language" content="en">
+  <meta name="rating" content="general">
+  <meta name="distribution" content="global">
+  <meta name="copyright" content="Navbright Technology Group Sdn Bhd">
+  <meta name="theme-color" content="#0d6efd">
+  <meta name="msvalidate.01" content="your-bing-site-verification-code">
   <meta name="keywords" content="IT services, Web Development, IT Consulting, Web Programming, Navbright Technology, Corporate IT, Digital Solutions">
+
+  <!-- Open Graph Meta Tags -->
+  <meta property="og:title" content="Navbright Technology Group Sdn Bhd – IT Solutions & Digital Consulting">
+  <meta property="og:description" content="Navbright Technology Group Sdn Bhd provides digital transformation consulting, system integration, and managed IT services.">
+  <meta property="og:image" content="https://navbright.com/assets/img/logo.png">
+  <meta property="og:url" content="https://navbright.com">
+  <meta property="og:type" content="website">
+
+  <!-- Twitter Card Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Navbright Technology Group Sdn Bhd – IT Solutions & Digital Consulting">
+  <meta name="twitter:description" content="Navbright Technology Group Sdn Bhd provides digital transformation consulting, system integration, and managed IT services.">
+  <meta name="twitter:image" content="https://navbright.com/assets/img/logo.png">
 
   <!-- Favicons -->
   <link href="assets/img/logo.png" rel="icon">
