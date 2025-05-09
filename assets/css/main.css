@@ -2765,3 +2765,106 @@ section,
   color: color-mix(in srgb, var(--default-color), transparent 60%);
   font-size: 14px;
 }
+
+.scroll-container {
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+}
+
+.service-card {
+  min-width: 300px;
+  scroll-snap-align: start;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.circle-badge {
+  width: 40px;
+  height: 40px;
+  background: #3ddc84;
+  color: white;
+  border-radius: 50%;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: -20px;
+  left: 15px;
+  font-size: 14px;
+}
+
+.service-item:hover {
+  background-color: #f0f0f0; /* or your desired hover background */
+  color: #000; /* keep text readable */
+}
+
+.service-item:hover h3,
+.service-item:hover p {
+  color: #000; /* explicitly set text color on hover */
+}
+
+.pricing-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+
+.pricing-card .price {
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.pricing-card ul {
+  flex-grow: 1;
+  margin-bottom: 20px;
+}
+
+.pricing-card .btn {
+  margin-top: auto;
+}
+
+.price {
+  font-size: 1.5rem;
+  font-weight: bold;
+  height: 50px; /* Adjust as needed */
+  display: flex;
+  align-items: center;
+}
+
+.price {
+  font-size: 1.5rem;
+  font-weight: bold;
+  height: 50px; /* Adjust as needed */
+  display: flex;
+  align-items: center;
+}
+
+.pricing-card h3 {
+  min-height: 60px; /* Ensures consistent title height */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.pricing-card .price {
+  font-size: 1.5rem;
+  font-weight: bold;
+  min-height: 48px; /* Align price height */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.pricing-card ul {
+  flex-grow: 1;
+}
+
+.pricing-card .btn {
+  margin-top: auto;
+}

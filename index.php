@@ -3,27 +3,24 @@
 <main class="main">
 
 <!-- Hero Section -->
-  <section id="hero" class="hero section">
-    <div class="container">
-      <div class="row gy-4">
-        <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
-          <h1 data-aos="fade-up">Navbright Technology – Premier IT & Web Solutions</h1>
-          <p data-aos="fade-up" data-aos-delay="100">
-          Navbright Technology delivers innovative AI and IT solutions, transforming business processes into agile, efficient systems. We specialize in IT services, consulting, and web development, helping clients enhance productivity, optimize operations, and achieve digital growth.
-          </p>
-          <div class="d-flex flex-column flex-md-row" data-aos="fade-up" data-aos-delay="200">
-            <a href="#about" class="btn-get-started">Discover More <i class="bi bi-arrow-right"></i></a>
-            <!--<a href="https://www.youtube.com/watch?v=YourCompanyVideo" class="glightbox btn-watch-video d-flex align-items-center justify-content-center ms-0 ms-md-4 mt-4 mt-md-0">
-              <i class="bi bi-play-circle"></i><span>Watch Our Story</span>
-            </a>-->
-          </div>
-        </div> 
-        <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-out">
-          <img src="assets/img/hero-img.png" class="img-fluid animated" alt="Navbright Technology IT & Web Solutions">
+<section id="hero" class="hero section" style="background: url('assets/img/hero-bg1.png') no-repeat center center; background-size: cover; min-height: 100vh;">
+  <div class="container">
+    <div class="row gy-4">
+      <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
+        <h1 data-aos="fade-up">Navbright Technology Group – Premier IT & Web Solutions</h1>
+        <p data-aos="fade-up" data-aos-delay="100">
+          Navbright Technology Group delivers innovative AI and IT solutions, transforming business processes into agile, efficient systems. We specialize in IT services, consulting, and web development, helping clients enhance productivity, optimize operations, and achieve digital growth.
+        </p>
+        <div class="d-flex flex-column flex-md-row" data-aos="fade-up" data-aos-delay="200">
+          <a href="#about" class="btn-get-started">Discover More <i class="bi bi-arrow-right"></i></a>
         </div>
+      </div> 
+      <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-out">
+        <img src="assets/img/hero-img.png" class="img-fluid animated" alt="Navbright Technology Group IT & Web Solutions">
       </div>
     </div>
-  </section> 
+  </div>
+</section>
 <!-- /Hero Section -->
 
 <!-- About Section -->
@@ -32,10 +29,10 @@
       <div class="row gx-0">
         <div class="col-lg-6 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
           <div class="content">
-            <h3>About Navbright Technology</h3>
+            <h3>About Navbright Technology Group</h3>
             <h2>Your Trusted Partner in IT & Digital Innovation</h2>
             <p>
-              Navbright Technology has established itself as a premier provider of comprehensive IT solutions and cutting-edge web development. Led by CEO Mr. Shawn Yee, our team excels in managing corporate IT systems and delivering innovative digital solutions that empower business growth.
+              Navbright Technology Group has established itself as a premier provider of comprehensive IT solutions and cutting-edge web development. Led by CEO Mr. Shawn Yee, our team excels in managing corporate IT systems and delivering innovative digital solutions that empower business growth.
             </p>
             <div class="text-center text-lg-start">
               <a href="#services" class="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">
@@ -46,7 +43,7 @@
           </div>
         </div>
         <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
-          <img src="assets/img/about.jpg" class="img-fluid" alt="About Navbright Technology">
+          <img src="assets/img/about.jpg" class="img-fluid" alt="About Navbright Technology Group">
         </div>
       </div>
     </div>
@@ -66,7 +63,7 @@
             <img src="assets/img/values-1.png" class="img-fluid" alt="Innovative Solutions">
             <h3>Innovative</h3>
             <p>
-              At Navbright Technology, innovation is at the heart of everything we do. We embrace cutting-edge technologies and creative approaches to deliver IT and web solutions that set your business apart.
+              At Navbright Technology Group, innovation is at the heart of everything we do. We embrace cutting-edge technologies and creative approaches to deliver IT and web solutions that set your business apart.
             </p>
           </div>
         </div>
@@ -93,11 +90,11 @@
   </section>
 <!-- /Values Section -->
 
-<!-- Stats Section -->
-  <section id="stats" class="stats section">
+<!-- Stats Section 
+ <section id="stats" class="stats section">
     <div class="container" data-aos="fade-up" data-aos-delay="100">
       <div class="row gy-4">
-        <!-- Satisfied Clients -->
+        <!-- Satisfied Clients 
         <div class="col-lg-3 col-md-6">
           <div class="stats-item d-flex align-items-center w-100 h-100">
             <i class="bi bi-emoji-smile color-blue flex-shrink-0"></i>
@@ -107,7 +104,7 @@
             </div>
           </div>
         </div>
-        <!-- Completed Projects -->
+        <!-- Completed Projects 
         <div class="col-lg-3 col-md-6">
           <div class="stats-item d-flex align-items-center w-100 h-100">
             <i class="bi bi-journal-richtext color-orange flex-shrink-0" style="color: #ee6c20;"></i>
@@ -117,7 +114,7 @@
             </div>
           </div>
         </div>
-        <!-- Technical Support Hours -->
+        <!-- Technical Support Hours 
         <div class="col-lg-3 col-md-6">
           <div class="stats-item d-flex align-items-center w-100 h-100">
             <i class="bi bi-headset color-green flex-shrink-0" style="color: #15be56;"></i>
@@ -127,7 +124,7 @@
             </div>
           </div>
         </div>
-        <!-- Expert Team Members -->
+        <!-- Expert Team Members 
         <div class="col-lg-3 col-md-6">
           <div class="stats-item d-flex align-items-center w-100 h-100">
             <i class="bi bi-people color-pink flex-shrink-0" style="color: #bb0852;"></i>
@@ -142,6 +139,7 @@
   </section>
 <!-- /Stats Section -->
 
+
 <!-- Features Section -->
   <section id="features" class="features section">
     <div class="container section-title" data-aos="fade-up">
@@ -151,7 +149,7 @@
     <div class="container">
       <div class="row gy-5">
         <div class="col-xl-6" data-aos="zoom-out" data-aos-delay="100">
-          <img src="assets/img/features.png" class="img-fluid" alt="Navbright Technology Features">
+          <img src="assets/img/features.png" class="img-fluid" alt="Navbright Technology Group Features">
         </div>
         <div class="col-xl-6 d-flex">
           <div class="row align-self-center gy-4">
@@ -198,7 +196,7 @@
   </section>
 <!-- /Features Section -->
 
-<!-- Alt Features Section -->
+<!-- Alt Features Section --><!-- 
   <section id="alt-features" class="alt-features section">
     <div class="container">
       <div class="row gy-5">
@@ -249,7 +247,7 @@
           </div>
         </div>
         <div class="col-xl-5 d-flex align-items-center order-1 order-xl-2" data-aos="fade-up" data-aos-delay="100">
-          <img src="assets/img/alt-features.png" class="img-fluid" alt="Navbright Technology Alt Features">
+          <img src="assets/img/alt-features.png" class="img-fluid" alt="Navbright Technology Group Alt Features">
         </div>
       </div>
     </div>
@@ -347,7 +345,7 @@
         <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
           <div class="faq-container">
             <div class="faq-item faq-active">
-              <h3>What IT services does Navbright Technology provide?</h3>
+              <h3>What IT services does Navbright Technology Group provide?</h3>
               <div class="faq-content">
                 <p>
                   We specialize in a comprehensive range of IT services including infrastructure management, custom web development, IT consulting, and digital transformation solutions tailored to your business needs.
@@ -379,7 +377,7 @@
         <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
           <div class="faq-container">
             <div class="faq-item">
-              <h3>What sets Navbright Technology apart from other IT providers?</h3>
+              <h3>What sets Navbright Technology Group apart from other IT providers?</h3>
               <div class="faq-content">
                 <p>
                   Our commitment to innovative solutions, strategic planning, and measurable results distinguishes us. We deliver reliable IT support and cutting-edge web development that drive business success.
@@ -412,7 +410,7 @@
   </section>
 <!-- /Faq Section -->
 
-<!-- Clients Section -->
+<!-- Clients Section 
   <section id="clients" class="clients section">
     <div class="container section-title" data-aos="fade-up">
       <h2>Our Esteemed Clients</h2>
@@ -469,82 +467,7 @@
   </section>
 <!-- /Clients Section -->
 
-<!-- Contact Section -->
-  <section id="contact" class="contact section">
-    <div class="container section-title" data-aos="fade-up">
-      <h2>Contact Us</h2>
-      <p>Get in Touch with Navbright Technology</p>
-    </div>
-    <div class="container" data-aos="fade-up" data-aos-delay="100">
-      <div class="row gy-4">
-        <div class="col-lg-6">
-          <div class="row gy-4">
-            <!-- Address -->
-            <div class="col-md-6">
-              <div class="info-item" data-aos="fade" data-aos-delay="200">
-                <i class="bi bi-geo-alt"></i>
-                <h3>Address</h3>
-                <p>Unit 16-17, Menara Mutiara Sentral,<br>No. 2, Jalan Desa Aman 1, Cheras Business Centre,<br>56000 Kuala Lumpur,<br>W.P. Kuala Lumpur Malaysia</p>
-              </div>
-            </div>
-            <!-- Phone -->
-            <div class="col-md-6">
-              <div class="info-item" data-aos="fade" data-aos-delay="300">
-                <i class="bi bi-telephone"></i>
-                <h3>Call Us</h3>
-                <p>010-2899611</p>
-              </div>
-            </div>
-            <!-- Email -->
-            <div class="col-md-6">
-              <div class="info-item" data-aos="fade" data-aos-delay="400">
-                <i class="bi bi-envelope"></i>
-                <h3>Email Us</h3>
-                <p>sales@navbright.com</p>
-                <p></p>
-                <p></p>
-              </div>
-            </div>
-            <!-- Open Hours -->
-            <div class="col-md-6">
-              <div class="info-item" data-aos="fade" data-aos-delay="500">
-                <i class="bi bi-clock"></i>
-                <h3>Open Hours</h3>
-                <p>Monday - Friday</p>
-                <p>9:00 AM - 06:00 PM</p>
-              </div>
-            </div>
-          </div>
-        </div>
-        <!-- Contact Form -->
-        <div class="col-lg-6">
-          <form action="forms/contact.php" method="post" class="php-email-form" data-aos="fade-up" data-aos-delay="200">
-            <div class="row gy-4">
-              <div class="col-md-6">
-                <input type="text" name="name" class="form-control" placeholder="Your Name" required>
-              </div>
-              <div class="col-md-6">
-                <input type="email" name="email" class="form-control" placeholder="Your Email" required>
-              </div>
-              <div class="col-12">
-                <input type="text" name="subject" class="form-control" placeholder="Subject" required>
-              </div>
-              <div class="col-12">
-                <textarea name="message" rows="6" class="form-control" placeholder="Message" required></textarea>
-              </div>
-              <div class="col-12 text-center">
-                <div class="loading">Loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
-                <button type="submit">Send Message</button>
-              </div>
-            </div>
-          </form>
-        </div>
-      </div>
-    </div>
-  </section>
-<!-- /Contact Section -->
+
 
 </main>
 
