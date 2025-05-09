@@ -19,18 +19,20 @@
   <div class="container footer-top">
     <div class="row gy-4">
       <!-- Footer About / Contact -->
-      <div class="col-lg-4 col-md-6 footer-about">
-        <a href="index.html" class="d-flex align-items-center">
-          <span class="sitename">Navbright Technology</span>
-        </a>
-        <div class="footer-contact pt-3">
-          <p>Unit 16-17, Menara Mutiara Sentral,</p>
-          <p>No. 2, Jalan Desa Aman 1, Cheras Business Centre, </p>
-          <p>56000 Kuala Lumpur W.P. Kuala Lumpur Malaysia</p>
-          <p class="mt-3"><strong>Phone:</strong> <span>010-2899611</span></p>
-          <p><strong>Email:</strong> <span>sales@navbright.com</span></p>
+        <div class="col-lg-4 col-md-6 footer-about">
+          <a href="index.html" class="d-flex align-items-center">
+            <span class="sitename">Navbright Technology</span>
+          </a>
+          <div class="footer-contact pt-3">
+            <p><strong>NAVBRIGHT TECHNOLOGY GROUP SDN BHD</strong></p>
+            <p><strong>NO. PENDAFTARAN:</strong> 202501018058 (1619472-W)</p>
+            <p>Unit 16-17, Menara Mutiara Sentral,</p>
+            <p>No. 2, Jalan Desa Aman 1, Cheras Business Centre,</p>
+            <p>56000 Kuala Lumpur, W.P. Kuala Lumpur, Malaysia</p>
+            <p class="mt-3"><strong>Phone:</strong> <span>010-2899611</span></p>
+            <p><strong>Email:</strong> <span>sales@navbright.com</span></p>
+          </div>
         </div>
-      </div>
 
       <!-- Useful Links -->
       <div class="col-lg-2 col-md-3 footer-links">
